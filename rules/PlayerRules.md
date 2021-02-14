@@ -1,0 +1,30 @@
+# Player Rules
+
+## Attributes
+
+## Action Dices
+
+All class templates give an action die, that may be spent during specific circumstances to improve the action being attempted. All action dices are d6. When a die is spent, the player rolls, even if the action attempted does not care about the resulting face, as the dices are retained when they roll a 1, 2 or 3.
+Actions may care about the result of the dice roll in many different ways, here are a few examples:
+
+* [count]: the number of dice spent
+* [sum]: the sum of the rolled values
+* [highest]/[lowest]: the highest (resp. lowest) value rolled on a die
+
+Action dices are recovered after a good night rest.
+
+### Fighting Dices
+
+Fighting dices are granted by templates that enhance a character ability for physical confrontation (as a fighter, an archer, a brawler, etc.). In addition to what the template grants, they may be spent as follow:
+
+* Before rolling the attack, grants +[count] bonus to hit
+* Before rolling for damage, grants +\[sum\] (note: maybe +[highest]) bonus to damage.
+
+### Skill Dices
+
+Skill dices are granted by templates that enhance a character ability for non-combat, non-magic skills (as a thief, a tracker, a crafter). In addition to benefits granted by templates, skill dice may be spent as follow:
+
+* Before rolling for the skill, grants +[highest] to the result
+* After rolling for the skill, you may spend 1 die to reroll without time penalty (i.e. try to act again in the same turn)
+
+### Magic Dices
