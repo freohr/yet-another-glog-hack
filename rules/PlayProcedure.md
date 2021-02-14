@@ -1,6 +1,8 @@
 # Play Procedures
 
-## Turn-based Procedures: Overloaded Encounter Die
+## Turn-based Procedures
+
+### Overloaded Encounter Die
 
 _Original Idea from Necropraxis : [Overloading the encounter die](http://www.necropraxis.com/2014/02/03/overloading-the-encounter-die/), and various refinement from around the OSR online communities_
 
@@ -16,3 +18,7 @@ To simplify accounting, this game replace and merges the random encounter roll a
 |4|Waning Resources| The players must reignite their light source (either a new torch, or another dose of oil), and Spell Effects end.|
 |5|Free Turn| Nothing specific happens, the players can simply continue their exploration unhindered.|
 |6|Good Encounter| The Referee rolls a good random encounter appropriate for the current milieu (Helpful NPC, Secured Location, Resources are found, etc.).|
+
+### Dungeon Crawling
+
+### Wilderness Travel and Hex-ploration
