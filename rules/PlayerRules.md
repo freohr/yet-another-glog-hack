@@ -17,14 +17,19 @@ Action dices are recovered after a good night rest.
 
 Fighting dices are granted by templates that enhance a character ability for physical confrontation (as a fighter, an archer, a brawler, etc.). In addition to what the template grants, they may be spent as follow:
 
-* Before rolling the attack, grants +[count] bonus to hit
-* Before rolling for damage, grants +\[sum\] (note: maybe +[highest]) bonus to damage.
+* Precision Strike: Before rolling the attack, grants +[count] bonus to hit
+* Power Attack: Before rolling the attack, trades -[count] to attack for +[sum] bonus to damage
+* While using a shield, reduces incoming damage by [sum]. This may be used to reduce damage for a close ally.
+
+Legendary
 
 ### Skill Dices
 
 Skill dices are granted by templates that enhance a character ability for non-combat, non-magic skills (as a thief, a tracker, a crafter). In addition to benefits granted by templates, skill dice may be spent as follow:
 
 * Before rolling for the skill, grants +[highest] to the result
-* After rolling for the skill, you may spend 1 die to reroll without time penalty (i.e. try to act again in the same turn)
+* Once per procedure turn, after rolling for the skill, you may spend 1 die to reroll without time penalty (i.e. try to act again in the same turn)
 
 ### Magic Dices
+
+Magic dices are granted by templates that allows characters to practice magic without any external help.
