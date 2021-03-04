@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\road-to-archaia-prep"
 		}
 	]
 }

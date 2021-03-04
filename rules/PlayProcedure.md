@@ -10,6 +10,8 @@ Play in this OSR Game is based around time and resources management, and this is
 
 To simplify accounting, this game replace and merges the random encounter roll and fixed duration for each resource with an overloaded encounter die, rolled at the start of each turn, which will determine what initial situation the players need to handle before continuing their voyage. Here is the basic of this overloaded die:
 
+###### Table X: Overloaded Encounter Die template
+
 |Die Face| Event| Precision|
 |:-:|:--|:--|
 |1|Encounter| The Referee rolls a random encounter appropriate for the current milieu.|
@@ -45,7 +47,7 @@ Now, for the actual movement rules:
 
 Here are also multipliers for the more common travel conditions. Note that those are multiplicative, e.g. if the party has a mount for everyone, but they are escorting a carriage, each travel point will allow them to move for `1 * 2 * 1/2 = 1` movement point, or 1 hex.
 
-##### Table X: Land Travel Accommodation
+###### Table X: Land Travel Accommodation
 
 | Accommodation                                                | Movement Multiplier |
 | :----------------------------------------------------------- | :-----------------: |
@@ -55,7 +57,7 @@ Here are also multipliers for the more common travel conditions. Note that those
 | The party has more than 20 people                            |        x1/2         |
 | The party has more than 50 people                            |        x1/2         |
 
-##### Table X: Land Travel Environment
+###### Table X: Land Travel Environment
 
 | Environment                          | Movement Multiplier |
 | :----------------------------------- | :-----------------: |
@@ -86,6 +88,8 @@ While travel or exploring, the Overloaded Encounter Die is used to simulate even
 
 This table should be adapted to the current party condition, e.g. if the party is traveling through a desert, the _Free Turn_ may be swapped for _Waning Resources_ instead (to replicate the harshness of the environment), or if the party is in mostly civilized lands (around a city or a fortress), the _Free Turn_ can be a _Good Encounter_ instead, even during the night, instead of discovering a hidden site, there may be an encounter at the party camp.
 
+###### Table X: Overloaded Encounter Die for Wilderness Movement
+
 | Die Face | Event             | Precision                                                    |
 | :------: | :---------------- | :----------------------------------------------------------- |
 |    1     | Encounter         | The Referee rolls a random encounter appropriate for the current milieu. |
@@ -99,6 +103,6 @@ This table should be adapted to the current party condition, e.g. if the party i
 
 Features in an hex can have one of 3 visibility statuses: Overt, Hidden or Secret.
 
-* __Overt features__ are visible and known by the characters immediately upon entering an hex, and some can even be used as landmarks (usually 1-in-6) for navigation to avoid getting lost.
+* __Overt features__ are visible and known by the characters immediately upon entering an hex, and some can even be used as landmarks (usually 1-in-6, as informed by the referee) for navigation to avoid getting lost. When used for navigation, such landmarks may be seen from 2 hexes afar, barring any terrain feature blocking the view (High Mountains, Deep Forests or Canopies, etc.).
 * __Hidden features__ are only visible by the characters if they stumble upon them while traveling. They can be discovered randomly one at a time if the party spends 1 travel point searching through the hex, or they can be found specifically if the party knows what they are looking for and spends 2 travel points to look for it.
 * __Secret Features__ may be hinted at by activity, signs found during encounters or at other sites of the hex or even rumors, but they can only be discovered if the party spends __all__ of its travel points at once searching through the hex. This search can only be started at the beginning of a travel day (when the party has not spent any travel point yet)
