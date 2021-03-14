@@ -1,6 +1,14 @@
 # yet-another-glog-hack
 
-## TODO
+## Inspirations
+
+* The original GLOG, and its reinterpretation by Skerples
+
+## Organization
+
+
+
+## ToDo
 
 * Rules
   * [x] Create Characters
@@ -16,5 +24,8 @@
   * [ ] Combat
   * [ ] Death
   * [ ] Spending Money
+    * [ ] Cost of Living
     * [ ] Items and Equipment
     * [ ] Hirelings and Henchpeople
+    * [ ] Strongholds and Influence
+    * [ ] Spell Research and Magic Item Creation
