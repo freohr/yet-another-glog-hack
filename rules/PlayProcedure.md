@@ -10,7 +10,7 @@ Play in this OSR Game is based around time and resources management, and this is
 
 To simplify accounting, this game replace and merges the random encounter roll and fixed duration for each resource with an overloaded encounter die, rolled at the start of each turn, which will determine what initial situation the players need to handle before continuing their voyage. Here is the basic of this overloaded die:
 
-###### Table X: Overloaded Encounter Die template
+#### Table X: Overloaded Encounter Die template
 
 |Die Face| Event| Precision|
 |:-:|:--|:--|
@@ -47,7 +47,7 @@ Now, for the actual movement rules:
 
 Here are also multipliers for the more common travel conditions. Note that those are multiplicative, e.g. if the party has a mount for everyone, but they are escorting a carriage, each travel point will allow them to move for `1 * 2 * 1/2 = 1` movement point, or 1 hex.
 
-###### Table X: Land Travel Accommodation
+#### Table X: Land Travel Accommodation
 
 | Accommodation                                                | Movement Multiplier |
 | :----------------------------------------------------------- | :-----------------: |
@@ -57,7 +57,7 @@ Here are also multipliers for the more common travel conditions. Note that those
 | The party has more than 20 people                            |        x1/2         |
 | The party has more than 50 people                            |        x1/2         |
 
-###### Table X: Land Travel Environment
+#### Table X: Land Travel Environment
 
 | Environment                          | Movement Multiplier |
 | :----------------------------------- | :-----------------: |
@@ -81,14 +81,14 @@ _**ToDo**: Adapt "Getting Lost" rules from AD&D DMG_
 
 #### Encounters
 
-While travel or exploring, the Overloaded Encounter Die is used to simulate events outside the control of the players and characters. 
+While travel or exploring, the Overloaded Encounter Die is used to simulate events outside the control of the players and characters.
 
-* While **traveling**, this encounter die is rolled after the party has spent half of its travel point, and during the night camp. 
-* While **exploring**, this die is rolled after the party has spent its first travel point, after the party has spent all its travel point, and during the night camp. 
+* While **traveling**, this encounter die is rolled after the party has spent half of its travel point, and during the night camp.
+* While **exploring**, this die is rolled after the party has spent its first travel point, after the party has spent all its travel point, and during the night camp.
 
 This table should be adapted to the current party condition, e.g. if the party is traveling through a desert, the _Free Turn_ may be swapped for _Waning Resources_ instead (to replicate the harshness of the environment), or if the party is in mostly civilized lands (around a city or a fortress), the _Free Turn_ can be a _Good Encounter_ instead, even during the night, instead of discovering a hidden site, there may be an encounter at the party camp.
 
-###### Table X: Overloaded Encounter Die for Wilderness Movement
+#### Table X: Overloaded Encounter Die for Wilderness Movement
 
 | Die Face | Event             | Precision                                                    |
 | :------: | :---------------- | :----------------------------------------------------------- |
