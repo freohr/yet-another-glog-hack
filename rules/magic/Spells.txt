@@ -1,0 +1,801 @@
+﻿1 Absorb Potion
+2 Absorb Toxicity
+3 Absurdity
+4 Acid Fog
+5 Acute Senses
+6 Adhesive Blood
+7 Adhesive Spit
+8 Aggravate Thundercloud
+9 Agony
+10 Air Bubble
+11 Air Step
+12 Alarm
+13 Allure
+14 Ant Haul
+15 Anti-magic Field
+16 Anti-Life Shell
+17 Anti-Undead Shell
+18 Aphasia
+19 Apport
+20 Aqueous Orb
+21 Arcane Lock
+22 Atavism
+23 Augury
+24 Aura of Doom
+25 Aversion
+26 Babbling Curse
+27 Bane Weapon
+28 Banishment
+29 Barbed Chain
+30 Barrier of Force
+31 Battering Wind
+32 Bestial Speech
+33 Black Tentacles
+34 Blight
+35 Blindness
+36 Blink
+37 Blood Tentacles
+38 Bone Fists
+39 Burning Gaze
+40 Cacophony
+41 Call Object
+42 Call Vermin
+43 Calm
+44 Carry Companion
+45 Catatonia
+46 Challenge
+47 Charm
+48 Clone
+49 Cloudkill
+50 Coldsnap
+51 Colour Spray
+52 Command
+53 Command Construct
+54 Command Undead
+55 Comprehend Language
+56 Confession
+57 Confusion
+58 Consecrate
+59 Constricting Coils
+60 Continual Flame
+61 Corpse Lantern
+62 Corrosive Touch
+63 Countless Eyes
+64 Create Armament
+65 Create Pit
+66 Create Treasure Map
+67 Cure Mutation
+68 Cure Wounds
+69 Darklight
+70 Darkness
+71 Death Knell
+72 Deathless
+73 Decollate
+74 Delectable
+75 Desecrate
+76 Dimension Door
+77 Disintegrate
+78 Dispel Magic
+79 Dominate
+80 Dragon’s Breath
+81 Dream
+82 Eagle Eye
+83 Ear-Piercing Scream
+84 Ear Send
+85 Earthquake
+86 Ectoplasmic Hand
+87 Escape From Time
+88 Enervation
+89 Enlarge
+90 Entangle
+91 Eruptive Pustules
+92 Ethereal Jaunt
+93 Etheric Shards
+94 Explode Corpse
+95 Explosive Rune
+96 Faerie Fire
+97 False Life
+98 Feast of Ashes
+99 Feather Fall
+100 Fester
+101 Finger of Death
+102 Fire of Judgement
+103 Fire Snake
+104 Fireball
+105 Flaming Sphere
+106 Flesh to Stone
+107 Floating Disc
+108 Fly
+109 Fog Cloud
+110 Force Mutation
+111 Freedom of Movement
+112 Frostfall
+113 Gaseous Form
+114 Ghost Mouth
+115 Ghostbane Dirge
+116 Ghoul Touch
+117 Grease
+118 Hallucinatory Terrain
+119 Halt Undead
+120 Haste
+121 Heat Metal
+122 Healing Thief
+123 Hold
+124 Holy Smite
+125 Ice Armour
+126 Icy Spears
+127 Illusory Double
+128 Illusory Image
+129 Incorporeal Chains
+130 Inflict Wounds
+131 Interplanetary Teleport
+132 Invisibility
+133 Isolate
+134 Jump
+135 Knock
+136 Levitate
+137 Light
+138 Lightening
+139 Lightning Conductor
+140 Lipstitch
+141 Locate Object
+142 Lock Gaze
+143 Longarm
+144 Mage Armour
+145 Mage Hand
+146 Magic Circle
+147 Magic Jar
+148 Magic Missile
+149 Meat Slave
+150 Memory Lapse
+151 Mirror Images
+152 Monkey Fish
+153 Named Bullet
+154 Paranoia
+155 Passwall
+156 Phobia
+157 Polymorph
+158 Protection from Evil
+159 Prying Eyes
+160 Rage
+161 Raise Skeleton
+162 Raise Zombie
+163 Ray of Exhaustion
+164 Reduce
+165 Remove Affliction
+166 Replicating Ammunition
+167 Resist Element
+168 Restoration
+169 Resurrection
+170 Reveal Illusions
+171 Reverse Gravity
+172 Sanctuary
+173 Sebaceous Twin
+174 See Invisible
+175 Shadow Step
+176 Share Senses
+177 Silence
+178 Slow
+179 Slumber
+180 Speak With Dead
+181 Spell Resistance
+182 Steal Size
+183 Stinking Cloud
+184 Stone To Flesh
+185 Stoneskin
+186 Stunning Barrier
+187 Summon
+188 Suppress Curse
+189 Swarm of Wasps
+190 Telepathic Link
+191 Teleport
+192 True Form
+193 Unwilling Shield
+194 Vomit Twin
+195 Wall of Fire
+196 Wall of Force
+197 Wandering Flame
+198 Water Breathing
+199 Web
+200 Zone of Truth
+
+[ Absorb Potion ]        D: [dice] hours        R: touch
+The target drinks a potion when the spell is cast. That potion is then suspended within their bloodstream. They can choose to activate it, instantly, at any point during the duration. If they have not done so by the end of the duration, the potion dissolves without effect.
+
+[ Absorb Toxicity ]        D: [dice] hours        R: self
+You take no damage from poison for the duration. You can pass poison from yourself to creatures you touch.
+
+[ Absurdity ]                D: 1 minute                R: 30’
+Target saves vs. Charisma; on failure, they consider one thing completely absurd. The caster chooses which things the victim considers absurd. The target does not fear, & cannot be intimidated by, the absurd object. If 2 dice are invested, a person can be the absurd object; one additional person or object can be included per die.
+
+[ Acid Fog]                D: [dice] minutes        R: 100’
+Creates a cloud of fog with radius equal to 5’ times the highest die rolled (up to 30’). The cloud is opaque, and creatures in the cloud take [dice] acid damage per round.
+
+[ Acute Senses ]        D: [dice] minutes        R: self
+You have the sight of a hawk & the scenting ability of a hound for the duration.
+
+[ Adhesive Blood ]        D: [dice] minutes        R: self
+Whenever an attack hits you & deals damage, the weapon sticks to your body. The attacker must make a STR save to pry their weapon loose.
+
+[ Adhesive Spit ]        D: [dice] minutes        R: self
+You can spit up to [dice] times, up to 30’. The target struck saves vs. DEX or is tangled up & can’t move from the spot; they also take -2 to attack rolls. They must save vs. STR or attack the slime with a slashing weapon to free themselves.
+
+[ Aggravate Thundercloud ]                R: 120’
+Can only be cast if there are clouds overhead. A bolt of lightning leaps from heaven and strikes the target, dealing [sum] lightning damage. They take double damage if wearing metal armour.
+
+[ Agony ]        D: [dice] rounds        R: sight
+Target experiences wracking pain. They must save each round while afflicted or miss their turn.
+
+[ Air Bubble ]                D: [dice] minutes        R: touch
+Creates a bubble of air around the target, allowing them to breathe even in environments that lack oxygen.
+
+[ Air Step ]                D: [dice] minutes        R: touch
+Target walks on air [dice] feet above any solid surface.
+
+[ Alarm ]                D: [dice] hours
+Ward a single area up to [sum] square feet in size. If any creature enters the area, you instantly know about it. If you so choose, a loud noise can also emanate when the alarm is triggered, heard up to [dice] x 100’ from the area. You can designate up to [dice] creatures who will not set off the alarm. You are automatically excluded.
+
+[ Allure ]                D: [dice] rounds        R: sight
+Any creature that can see you saves vs. CHA (with penalty equal to [dice]) or is compelled to approach you. If they are hostile, they will approach you with hostile intent.
+
+[ Ant Haul ]                D: 1 day                R: touch
+Target can carry [dice] x 2 extra equipment slots without being encumbered.
+
+[ Anti-magic Field ]        D: 1 minute                R: self
+The field emanates from you in a radius of 10’. Spells cast with spell dice equal to or less than [dice] within this radius have no effect.
+
+[ Anti-Life Shell ]        D: 1 minute                R: self
+Living creatures with Hit Dice equal to or less than [dice] cannot approach within 10’ of you. Creatures already in the shell when the spell is cast are unaffected unless they leave the shell (or you move far enough away from them).
+
+[ Anti-Undead Shell ]                D: 1 minute        R: self
+Like Anti-Life Shell, but affects the undead instead.
+
+[ Aphasia ]                D: [dice] minutes        R: 120’
+Target saves with penalty equal to [dice]. On failure, they cannot speak or comprehend any language, written or spoken, for the duration.
+
+[ Apport ]                R: [dice] miles
+You can teleport a small object (fits in your hand) up to the spell’s range. You can teleport an object to you - you must have seen the object before & be able to visualize its location. You can teleport an object from you to somewhere, in which case you must be touching the object and able to visualize its destination. If you invest at least 4 dice, you can teleport an object that is human-sized or smaller (but it must be an object & not animate!).
+
+[ Aqueous Orb ]        D: [dice] rounds        R: 60’
+Conjure an orb of water about 6’ in radius. If you spend your turn concentrating, you can cause it to move up to 30’ in a direction of your choosing. It rolls along the ground - it can’t float. Anything smaller than the sphere in its path is caught up inside; creatures can save vs. DEX to avoid it or to escape.
+
+[ Arcane Lock ]        D: permanent                R: touch
+Touch a lock to magically enhance it. Only a Knock spell with an equal or greater number of spell dice can open the lock thereafter; no key can open it.
+
+[ Atavism ]                D: [dice] minutes        R: 10’
+Target animal reverts to a primeval, frenzied state; it gets +4 to all saving throws & attack rolls, & +2 to damage rolls.
+
+[ Augury ]
+Consult the gods to learn whether an action will result in weal or woe. The chance of a meaningful answer is equal to 50% + [sum]%, rolled in secret. State the course of action; the answer will be either weal, woe, or uncertain. If the % roll is failed, the answer will always be uncertain.
+
+[ Aura of Doom ]        D: [dice] rounds        R: self
+You exude an aura of terror. Creatures within 15’ of you save vs. CHA (with a penalty equal to [dice]) or are terrified of you (they roll Morale immediately).
+
+[ Aversion ]                D: 1 day                R: sight
+Target saves vs. CHA (with a penalty equal to [dice]) or becomes profoundly averse to an object or location of your choice. The object can’t be something they’re currently holding or touching.
+
+[ Babbling Curse ]        D: [dice] minutes        R: 30’
+Target saves vs. CHA (with a penalty equal to [dice]) or starts babbling incoherently and uncontrollably. Anyone hearing the babbling saves or becomes fascinated & unable to focus on anything else. Attacking the victim, or a fascinated creature, ends the spell prematurely.
+
+[ Bane Weapon ]        D: [dice] rounds        R: touch
+Touch the weapon and name a creature. The weapon [sum] extra damage to that creature for the duration. You can lock the dice used to make the effect permanent.
+
+[ Banishment ]        R: 120’
+The target must be an extra-planar creature with Hit Dice equal to [sum] or less. They are instantly returned to their home plane and can’t be re-summoned for 24 hours.
+
+[ Barbed Chain ]        D: [dice] rounds        R: self
+You conjure a lacerating length of chain, which protrudes from your body. You can use it to lash creatures like a whip - it inflicts bleeding and deals damage based on the number of dice invested: 1 die - d2; 2 dice - d4; 3 dice - d6; 4 dice - d8; 5 dice - d10; 6 dice - d12. You can lock the dice to make the effect permanent.
+
+[ Barrier of Force ]        D: [dice] rounds         R: touch
+A barrier of force surrounds the target. Nothing (except for air) can pass inward through the barrier, though anything can pass outward. The barrier can be attacked; it breaks when [sum] points of damage are dealt to it.
+
+[ Battering Wind ]        R: 60’ + 10’ x [dice]
+Target saves or is thrown back 10’ per [dice]. You can affect 1 target per [die], so long as they’re fairly close together.
+
+[ Bestial Speech ]        D: [dice] hours         R: self
+You can communicate with animals for the duration. You can lock the dice to make the effect permanent.
+
+[ Black Tentacles ]        D: [dice] rounds        R: 60’
+Black tentacles surge from the ground. Affects one 5’ square per [dice]. Victims must save vs. STR to escape, with a penalty equal to [dice], and the tentacles deal 1d6 damage to each victim per round.
+
+[ Blight ]         R: self
+Plants in a radius of 1/2 mile per [dice] wither and die at your touch.
+
+[ Blindness ]        D: permanent                R: touch
+Target is cursed with magical blindness.
+
+[ Blink ]        R: 10’ x [dice]
+You teleport in a straight line to a point you can see. You can’t move through solid obstacles.
+
+[ Blood Tentacles ]        D: [dice] minutes        R: self
+Smear blood across your chest; [dice] blood tentacles burst forth. They can be used to attack any creature within 15’ for 1d6 damage; on hit, the tentacle is destroyed, and you regain hp equal to damage dealt.
+
+[ Bone Fists ]                D: [dice] minutes        R: self
+Struts of bone burst from your fists - for the spell’s duration, you can punch for d6 damage (d8 if 3 dice are invested, and d10 if 5 are invested). You can lock the dice to make the spell permanent.
+
+[ Burning Gaze ]        D: [dice] rounds        R: self
+Anything you look at for the duration catches on fire, if human-sized or smaller. For each invested die past 4, double the maximum size of affected objects.
+
+[ Cacophony ]         D: [dice]x2 rounds         R: 120’
+A deafening cacophony fills an area up to [dice] x 10’ in diameter. Nobody can hear each other speak. Spellcasters must save or fumble spellcasting.
+
+[ Call Object ]                R: 10’ x [dice]
+Summon an object you’ve touched within the last 10 minutes to your hand. (It must fit in your hand to be eligible.)
+
+[ Call Vermin ]        D: 1 hour
+A swarm of [sum] rats or similar vermin are magically called to you from the surrounding area (if there are no such vermin in the vicinity, the spell is useless). They will obey simple spoken commands you issue for the spell’s duration.
+
+[ Calm ]
+Affects up to [sum] HD of creatures in your vicinity. Strong emotions (such as fear, hatred, excitement) are reduced to mildness and relaxation. Creatures may save to resist if they wish (with a penalty equal to [dice]).
+
+[ Carry Companion ]        D: [dice] hours R: touch
+A target person or animal turns into a stone statue about 6’’ high. Target must be willing.
+
+[ Catatonia ]        D: [dice] hours        R: touch
+Target appears, even on close inspection, to be dead. Only magical means can expose the artifice.
+
+[ Challenge ]        D: [dice] minutes        R: hearing
+The challenged creature is compelled to fight you. If they don’t, they take a -2 penalty to all attack rolls & saving throws.
+
+[ Charm ]        D: [dice] days                R: touch
+The target saves (with penalty equal to [dice]) or regards you as a trusted friend for the duration. They aren’t aware that they’ve been charmed until the spell wears off.
+
+[ Clone ]        R: touch
+A perfect duplicate of the person touched sprouts from their side, rapidly growing into a fully-formed copy. It has HD equal to [dice] or the target’s HD, whichever is lower. The clone is essentially a mindless zombie, but if the target dies, their consciousness is instantly transplanted into the clone.
+
+[ Cloudkill ]        D: d4 minutes                R: 120’
+Cloud fills a 20’ radius sphere and lingers for 1d4 minutes. Creatures with HD less than [dice] within the cloud are killed instantly. Other creatures are unaffected.
+
+[ Coldsnap ]        R: 30’+30’x[dice]
+An area [dice] x 5’ in diameter is exposed to a sudden burst of frigid cold. Creatures in the area take [sum] cold damage, water freezes, & so on. The area gradually returns to its normal temperature over the course of an hour.
+
+[ Colour Spray ]        R: 15’ cone
+Creatures with HD less than [dice] are are knocked unconscious for 2d4 rounds and blinded for 1d4 rounds after waking. Creatures with HD equal to [dice] are blinded for 1d4 rounds. Creatures with HD greater than [dice] save or are stunned for 1 round.
+
+[ Command ]                D: 1 round        R: hearing
+Target saves (with penalty equal to [dice]) or must obey a 1-word command you give. If you invest at least 4 dice, the command must be obeyed for 1d3+1 rounds instead.
+
+[ Command Construct ]        D: [dice] minutes
+Target construct obeys your commands for the duration. You must be able to issue commands in a way the construct will understand: usually speaking the language of its creator works. Some constructs may understand telepathic commands too.
+
+[ Command Undead ]        D: [dice] hours
+Target undead creature obeys your commands for the duration. Intelligent undead get to save, with a penalty equal to [dice].
+
+[ Comprehend Language ]         D: [dice] hrs R: self
+You understand, speak, read, & write one language perfectly for the duration. You must have an example of the language present (eg a written sample or a speaker).
+
+[ Confession]                R: touch
+Target must answer a question you give truthfully, or they take [sum] damage.
+
+[ Confusion ]        D: [dice] rounds         R: 60’
+Target saves or is confused for the duration. On their turn, they roll 1d4; on (1), they act normally; on (2), they attack themselves with whatever is on hand; on (3) they attack the nearest creature, friend or foe; on (4) they do nothing but babble incoherently.
+
+[ Consecrate ]                D: 1 day
+Takes 10 minutes to cast & requires 25sp worth of silver dust. You consecrate an area 60’ in diameter against the undead. Undead that enter the area take a penalty equal to [dice] to all d20 rolls. If they have HD less than [dice], they are killed instantly. Undead can’t be created in the area, except by spells with more [dice] invested than were used to cast Consecrate.
+
+[ Constricting Coils ]         D: [dice] rounds        R: 30’
+A false serpent rises from the earth beneath the target, constricting the victim. Treat the serpent as having Strength equal to [sum]. The victim is grappled by the serpent & takes [dice] damage each round. They can escape with a successful grapple roll or by dealing [sum] damage to the serpent, at which point in slinks back into the earth.
+
+[ Continual Flame ]        D: permanent                R: touch
+A heatless flame is created at the point you touch. It can only be put out by magical means. It illuminates an area of diameter equal to [dice] x 10’. If at least 4 dice are invested, the light has all the properties of natural sunlight.
+
+[ Corpse Lantern ]        D: [dice] hours        R: touch
+Touch a corpse of human-size or smaller. It immediately begins to glow with a sickly light, & to float. It will drift after you for the spell’s duration, illuminating an area 10’ x [dice] in diameter.
+
+[ Corrosive Touch ]        R: touch
+If you touch flesh, the target takes [sum] acid damage. If you touch an object subject to corrosion, it is damaged instead.
+
+[ Countless Eyes ]        D: [dice] hours        R: touch
+Countless eyes sprout all over the target’s head. They can see through all the eyes at once.
+
+[ Create Armament ]        D: [dice] hours        R: self
+A mundane weapon or suit of armour, of your choice, appears in your hand or in your vicinity. At the end of the duration, it dissolves into nothingness.
+
+[ Create Pit ]                D: [dice] hours        R: touch
+A pit [sum]’ deep and 10’ in diameter appears at the point you touch. The sides are smooth and difficult to climb. Anything in the pit when the duration expires is summarily disgorged.
+
+[ Create Treasure Map ]        R: touch
+You must carve off a section of the skin from a corpse dead no more than 1 hour & cast this spell upon it. A map appears on the skin, guiding you to the location of [dice] items or stashes of valuable that the creature knows about.
+
+[ Cure Mutation ]        R: touch
+Target loses [dice] mutations. If they have multiple mutations, choose randomly which are removed.
+
+[ Cure Wounds ]        R: touch
+The target is healed for [sum] points of hit point damage.
+
+[ Darklight ]                D: [dice] hours        R: self
+You are surrounded by an illuminating aura that only you can see. Illuminates an area of diameter [dice] x 10’.
+
+[ Darkness ]                D: [dice] hours        R: 120’
+Fills an area [dice] x 10’ in diameter with total darkness. Light sources within the area are snuffed out. If at least 3 dice are invested, torches and other light sources have no effect in the area. If at least 5 dice are invested, even creatures with darkvision can’t see in the area.
+
+[ Death Knell ]        D: [dice] rounds        R: 60’
+A creature with no more than [dice] hit points remaining is killed instantly. You heal [dice] damage.
+
+[ Deathless ]        D: [dice] rounds        R: touch
+The target can’t be killed by hit point damage while the spell persists - their hp can be reduced to zero, but any blow that would kill them thereafter mysteriously misses or otherwise fails.
+
+[ Decollate ]        D: [dice] days                R: touch
+The target can safely remove their own head. They can still see through their own eyes, & can move their body around as usual. If you spend at least 4 dice on this spell, you can lock them to make the spell permanent.
+
+[ Delectable ]        D: [dice] minutes        R: 5’+5’x[dice]
+The target appears so delectable that everyone in the vicinity wants desperately to eat it.
+
+[ Desecrate ]        D: 1 day
+Takes 10 minutes to cast & requires 25sp worth of silver dust. You desecrate an area 60’ in diameter, increasing the power of undead within: they get +[dice] to all d20 rolls, and any undead created in the area have +1 HD per [dice].
+
+[ Dimension Door ]        R: 60’ + 30’x[dice]
+You step through an extra-dimensional door & emerge at a point you can see or clearly visualize. The passageway is open only for an instant, but with quick reflexes or foresight it is possible for others to move through it as well.
+
+[ Disintegrate ]        R: 30’ + 15’x[dice]
+Target turns to dust. Creatures with more than [sum] hit points are immune. An apple-sized object can be disintegrated with 1 die; cat-sized with 2 dice; human-sized with 3; and so on, proportionately.
+
+[ Dispel Magic ]        R: 30’
+Removes one magical effect, or counters one magical spell, with invested [dice] less than or equal to the [dice] invested in this spell.
+
+[ Dominate ]                D: [dice] days                R: 60’
+Target saves or is subjugated utterly to your will for the duration. Creatures with HD greater than [dice] may save. Creatures with HD greater than or equal to [dice]x2 are immune.
+
+[ Dragon’s Breath ]        D: [dice] rounds        R: self
+You can breathe fire for the duration. Each breath of fire deals [sum] fire damage in a 15’ cone. The horribly hot breath deals [dice] fire damage to you each time it is used, if you’re not fire-resistant or something.
+
+[ Dream ]
+Send a dream to any creature you have seen before & can name or clearly visualize (& which is capable of dreaming). The dream lasts up to [sum] minutes.
+
+[ Eagle Eye ]                D: [dice] minutes
+Creates a magical floating eye in the sky 200’ above you. It follows you around. You can look through it with the clarity of an eagle’s vision.
+
+[ Ear-Piercing Scream ]         R: 30’ cone
+Creatures in the cone save or are struck deaf for [sum] rounds. They also take [dice] damage thanks to ear-blasting pain. If at least 4 dice are invested, they must also save or be stunned for 1 round.
+
+[ Ear Send]        D: [dice] minutes
+Your ear detaches and flies away. You can’t see through it but you can still hear through it clearly, and you can telepathically direct it to fly up to [dice]x100’ away. When the duration expires, the ear teleports back to its proper place on your head.
+
+[ Earthquake ] D: [dice] rounds R: 10’x[dice]
+Affected area is subject to a violent earthquake for the duration: the ground shakes, stuff falls off shelves, people are knocked over.
+
+[ Ectoplasmic Hand ]        D: [dice] minutes R: self
+Your hand turns ectoplasmic. It can no longer interact with physical objects & creatures - in fact it passes right through them - but it can interact with incorporeal objects & creatures.
+
+[ Escape from Time ]        D: [sum] days R: self
+You enter suspended animation for the spell’s duration. From your point of view, you fall asleep and wake up [sum] hours later; you don’t need to eat, sleep, breathe, etc. in the interim. If any harm comes to you during the duration, you wake up immediately.
+
+[ Enervation ]                R: touch
+Drain [dice] levels from the creature touched. Creatures with HD more than [dice]x2 may save to resist.
+
+[ Enlarge ]        D: [dice] minutes        R: touch
+Touched object or person doubles in size. An unwilling creature may save to resist.
+
+[ Entangle ]        R: 60’
+Plants in the area move to entangle and grapple the target.
+
+[ Eruptive Pustules ]        R: self
+[Sum] acidic pustules sprout on your body. Each time you are hit in melee, 1d6 of the pustules burst, spraying acid on everything within 5’ of you. Each pustule deals 1 point of damage.
+
+[ Ethereal Jaunt ]        D: [dice] rounds        R: self
+You become incorporeal for the duration.
+
+[ Etheric Shards ]        D: [dice] minutes        R: 120’
+An area 10’x[dice] in diameter is filled with tiny shards of etheric matter. They drive into the flesh of anything that moves too quickly through the area: if a creature moves more than 5’ per round through the region, they take 1d4 damage per 5’ extra they move. You can lock the dice to make the spell permanent.
+
+[ Explode Corpse ]        R: 15’ + 15’x[dice]
+All corpses in a radius of 60’ around the caster explode, dealing 1d6 damage per HD to victims within 10’. Corpses created by creatures with HD greater than [dice] are unaffected.
+
+[ Explosive Rune ]        R: touch
+You write the rune on a surface. When a creature sees the rune, they take [sum] fire damage & the rune is destroyed. You must lock the dice used; you get them back when the rune is triggered, or you can expire the rune at will.
+
+[ Faerie Fire]        D: [dice]x5 rounds        R: 120’
+Target is outlined in bright light for the duration.
+
+[ False Life ]        D: [dice] minutes        R: self
+You gain [sum] temporary hit points for the duration. You count as undead as long as these hit points persist.
+
+[ Feast of Ashes ]        D: [dice] days                 R: 60’
+Target experiences unassuageable hunger. They will not die, but feel as though they are starving; worse, eating food causes them horrible nausea.
+
+[ Feather Fall ]        D: [dice] minutes        R: touch
+The target falls slowly & lightly as long as the spell is active. They won’t take any damage from falling.
+
+[ Fester ]        D: 1 hour        R: 30’
+Any time the target receives magical/alchemical healing, they must roll a d20 greater than or equal to [sum] or receive no healing at all. You can lock the dice to make the spell permanent.
+
+[ Finger of Death ]        R: 15’
+Target saves. They take [sum] x 5 damage on failure, or [sum] damage on success.
+
+[ Fire of Judgement ]        D: [dice] rounds        R: 30’
+Target takes [sum] fire damage each time they attack.
+
+[ Fire Snake ]        D: [dice] rounds
+Every time you move, you leave a trail of fire behind you. Anything adjacent to the fire takes [sum]/2 fire damage, and anything in the trail takes [sum] fire damage. The trail burns away 1d4 rounds after the spell ends.
+
+[ Fireball ]        R: 120’
+Blast of fire fills a 20’ radius sphere, dealing [sum] fire damage to everything within.
+
+[ Flaming Sphere ]        D: [dice] rounds        R: 30’
+Summon a ball of fire, 5’ in diameter. You can use your action to direct its movement, up to 30’ per turn; otherwise it rolls 30’ in the direction it last moved. Anything the fire passes through burns, taking 1d6 damage/round.
+
+[ Flesh to Stone ] D: [dice] hours         R: touch
+The target saves or calcifies. Their maximum hit points are reduced by [sum], and they take a penalty equal to [dice] to any roll requiring agility or freedom of movement, such as attack rolls or Dex saves. If the spell reduces their hit points to zero, they are permanently turned into a stone statue.
+
+[ Floating Disc ]        D: [dice] minutes
+Creates a flat disc, 5’ + 5’x[dice] in diameter, that levitates 5’ off the ground. It can support the weight of about 1 average human per [dice]. You can move it laterally at will.
+
+[ Fly ]                D: [dice] hours        R: touch
+Target can fly at a rate of [dice]x20’ per round.
+
+[ Fog Cloud ]        D: [dice] minutes        R: 120’
+Summon a cloud of opaque fog with radius [dice]x10’.
+
+[ Force Mutation ]        D: permanent         R: touch
+Target gains a random mutation. You roll one mutation per [dice] and choose which one to inflict. Unwilling creatures can save to resist.
+
+[ Freedom of Movement ] D: [dice] minutes R: touch
+Target is immune to any effect that restricts movement for the duration, unless the effect has more dice invested than were used in this spell.
+
+[ Frostfall ]        D: [dice] rounds        R: 120’
+Affects an area 5’x[dice] in diameter. A flurry of snow falls in the region for the duration, freezing everything within and making it impossible to see. Only works outside. At the end of the duration, the snow will be subject to the normal effects of temperature.
+
+[ Gaseous Form ]        D: [dice] minutes        R: self
+Your body and equipment turns into gas. You can fit through very small spaces and fly at a speed of 20’ per round. You’re immune to most damage, but vulnerable to being blown around by strong winds.
+
+[ Ghost Mouth ]        D: [dice] minutes        R: 15’
+You create an invisible mouth, which can gibber incoherent sounds at your will. If you invest at least 3 dice, the invisible mouth can speak coherent words.
+
+[ Ghostbane Dirge ]        D: [dice] minutes        R: 60’
+A haunting dirge emanates from your body. Corporeal weapons within the 60’ radius of the spell affect incorporeal creatures.
+
+[ Ghoul Touch ]        D: [dice] rounds        R: touch
+Target saves or is paralyzed for the duration. Paralyzed victims emit a hideous stench that sickens anything within 15’ (-2 to all d20 rolls while nearby).
+
+[ Grease ]        R: 30’
+Summon a blob of slippery, flammable grease. Enough to cover one 5’ square per [dice].
+
+[ Hallucinatory Terrain ]        D: [dice] hours
+An area of terrain, up to 100 sq.ft. per [dice], appears to be a different type of terrain. Fine details are not possible.
+
+[ Halt Undead ]        D: [dice] rounds        R: 30’
+Undead within 30’ of you are paralyzed for the duration. Intelligent undead get a save with a penalty equal to [dice].
+
+[ Haste ]        D: [dice] rounds        R: touch
+Target moves twice as fast for the duration. If at least 3 dice are invested, they can take any extra action each round instead, such as making another attack.
+
+[ Heat Metal ]        D: 1d6 rounds R: 10’+10’x[dice]
+Metal object becomes unbearably hot. A 1-handed weapon can be affected; a 2-handed weapon with at least 2 dice; a suit of human-sized armour with at least 4 dice. A wearer/wielder takes 1d6 points of damage per round in contact with the object.
+
+[ Healing Thief ]        D: [dice] minutes        R: 30’
+Any time the target is healed, you steal half the healing.
+
+[ Hold ] D: [dice] rounds        R: 10’+10’x[dice]
+Target is paralyzed for the duration.
+
+[ Holy Smite ]                D: until death                R: self
+You indicate an undead/demonic/obviously evil creature you can see to be the target of your holy smite. Until that creature dies, you add +[dice] to all attack and damage rolls against them. You can only smite one creature at a time.
+
+[ Ice Armour ]        D: [dice] minutes        R: touch
+Target is encased in magical armour of ice. They are immune to cold damage, and the armour grants AC equivalent to chain-mail. If [sum] fire or heat damage is dealt to the armour, it melts away completely.
+
+[ Ice Spears ]                R: 60’
+[Dice] spears of ice burst from the ground at any point(s) within range that you designate. Each spear is 10’ long, and creatures struck by the spears take 1d6 cold damage.
+
+[ Illusory Double ]        D: [dice] minutes
+Creates an illusory duplicate of you, which acts as you direct (but can’t actually interact with anything).
+
+[ Illusory Image ]        D: [dice] hours        R: 120’
+Creates an illusory image, as large as 10 cubic feet per [dice]. The image can’t move unless at least 4 dice are invested. The image can’t make sound unless at least 6 dice are invested. You can lock the dice to make the illusion permanent.
+
+[ Incorporeal Chains ] D: [dice] rounds        R: 120’
+Chains grapple [dice] incorporeal creatures with strength equal to [sum]. Has no effect on corporeal creatures.
+
+[ Inflict Wounds ]        R: touch
+Target you touch takes [sum] damage and saves or starts bleeding.
+
+[ Interplanetary Teleport ]
+Teleport yourself and up to [dice] willing others to a planet within [dice] parsecs.
+
+[ Invisibility ]                D: [dice] minutes        R: touch
+Target is invisible. Unless 4 or more dice are invested, the invisibility ends as soon as the creature attacks.
+
+[ Isolate ]        D: [dice] minutes        R: 120’
+The target cannot be seen or heard by their allies for the duration.
+
+[ Jump ]        D: [dice] minutes        R: touch
+The target can jump up to [dice] + 1 times their height for the duration.
+
+[ Knock ]        R: touch
+Instantly opens any mundane lock touched. Can open a magically-enhanced lock if an equivalent number of spell dice are invested. (A magician can tell how many dice are invested in an arcane lock by touching it.)
+
+[ Levitate ]        D: [dice] minutes        R: touch
+The target levitates off the ground, like a balloon. You can move them up to 10’ up or down each round. They can move laterally by pushing against solid surfaces.
+
+[ Light ]        D: [dice] minutes        R: touch
+Object you touch glows with light, illuminating an area [dice]x10’ in diameter. If you invest at least 4 dice, the light has all the properties of natural sunlight.
+
+[ Lightening ]        D: [dice] minutes        R: touch
+Object’s weight is halved for the duration. If you invest at least 4 dice, you can affect a living creature human-sized or smaller.
+
+[ Lightning Conductor ]        D: [dice] minutes R: self
+You absorb up to [sum] points of damage from electricity without harm. At any point during the duration, you can end the spell & release all the stored damage, affecting everything with 10’ of you.
+
+[ Lipstitch ]        D: [dice] hours        R: 30’
+Target’s lips are sewn together. Their HD can’t be greater than the [dice] invested. You can lock the dice to make the spell permanent. The victim can cut their lips open again, but they take [dice] damage in the process.
+
+[ Locate Object ]         R: [dice] miles
+You know the direction to an object - either a specific one that you visualize & have seen before, or an object of a type you designate. If no such object exists within the spell’s radius, you feel nothing.
+
+[ Lock Gaze ]                D: [sum] rounds
+At the start of each turn, the target must save or is forced to hold your gaze. The spell is broken if you leave their line-of-sight.
+
+[ Longarm ]        D: [dice] minutes
+Your arms double in length. If you invest at least 4 dice, they triple in length instead.
+
+[ Mage Armour ]        D: [dice] minutes        R: self
+A suit of magical force armour surrounds you. It acts as leather armour; if at least 3 dice are invested, it acts as chain; if at least 5 are invested, it acts as plate.
+
+[ Mage Hand ] D: [dice] hours R: 30’+10’x[dice]
+You can lift and move objects weighing no more than [dice] x 5 lbs within 30’.
+
+[ Magic Circle ]        D: [dice] hours
+You draw a circle with radius up to [dice]x5’ on the ground. You choose what type of creature the circle is against: good-aligned, evil-aligned, demonic, undead, or similar. You also state whether the circle prevents such creatures from entering or exiting.
+
+[ Magic Jar ]        D: [dice] days        R: 60’
+You need an actual jar to cast this spell. The target saves, or their consciousness is transported into the jar, your consciousness is transported into their body, and your body becomes a useless husk. When the spell expires, everyone's consciousness goes back to its proper place. Can’t affect creatures with HD greater than [dice].
+
+[ Magic Missile ]        R: 100’+50’x[dice]
+Fire one missile per [dice] that deals 1d6 points of magical force damage to whatever it hits. You can direct each missile to a different target. The missiles never miss.
+
+[ Meat Slave ]                D: [dice] hours
+You need a blob of dead meat (eg from a corpse) for this to work. The meat forms into a helpful servant, which will obey your commands for the duration. The servant can’t wield weapons, but it can manipulate objects. It has [sum] hp and Strength. If 4 dice are invested, it can speak. On death or expiration, it turns back into meat.
+
+[ Memory Lapse ]        R: touch
+Target forgets everything that happened in the last [dice] rounds.
+
+[ Mirror Images ]        D: [dice] minutes        R: self
+Creates [dice] duplicates of you, which overlap with you and confuse attackers. Any time you’re attacked, the attack has an equal chance to hit you or any of your images. If an image is hit, it is destroyed.
+
+[ Monkey Fish ]        D: [dice] minutes        R: touch
+Target can climb like a monkey and swim like a fish.
+
+[ Named Bullet ]        R: touch
+Name your enemy while touching a piece of ammunition (arrow, sling bullet, etc). When the target is struck by this piece of ammunition, roll damage [dice] additional times. You must lock the dice used.
+[ Paranoia ]        D: [dice] rounds        R: 120’
+Target saves with penalty equal to [dice] or considers all creatures their enemy for the duration.
+
+[ Passwall ]        D: 1 minute        R: touch
+Creates a magical opening in a wall, up to [dice] x 5’ thick, large enough for a person to pass through.
+
+[ Phobia ]        D: permanent  R: touch
+Target saves with penalty equal to [dice] or is permanently and irrationally terrified of something you name. It can be a specific object; a type of object, with 2 dice; a specific creature with 3 dice; or a type of creature, with 4 dice.
+
+[ Polymorph ]                D: [dice] minutes        R: touch
+Target is transformed into another type of creature. They can save if they wish. The polymorph form must be of a type you’ve seen before.
+
+[ Protection from Evil ] D: [dice] minutes        R: touch
+Target can’t be attacked or targeted with spells by inherently evil creatures, such as demons or undead. The spell is broken if the target attacks or casts a spell. Evil creatures with HD greater than 2x[dice] can save to attempt to overcome this protection.
+
+[ Prying Eyes ]        D: [dice] minutes
+Creates [dice] tiny flying eyes, which you can send out to scout for you. You can’t see through the eyes, but when they return you can absorb them into your body and receive images of everything they saw.
+
+[ Rage ]        D: [dice] rounds        R: touch
+Target flies into a rage (unwilling targets can save). They add +[dice] to all attack and damage rolls for the duration, and must make a melee attack each round - if no other targets are available, they must attack themselves.
+
+[ Raise Skeleton ]        R: touch
+Target corpse returns to life as a skeleton with hit points equal to [sum] and HD equal to [dice]. If you lock the dice used, they are loyal to you; otherwise, they are neutral. Skeletons can wield weapons.
+
+
+
+[ Raise Zombie ]        R: touch
+Target corpse returns to life as a zombie with hit points equal to [sum] and HD equal to [dice]. If you lock the dice used, they are loyal to you; otherwise, they are neutral. Zombies can slam for d6 damage. They can’t wield weapons.
+
+[ Ray of Exhaustion ]        R: 30’ + 15’x[dice]
+Target saves with penalty equal to [dice] or is exhausted.
+
+[ Reduce ]        D: [dice] minutes        R: touch
+Target halves in size. Unwilling creatures can save to resist.
+
+[ Remove Affliction ]                R: touch
+Cures one affliction - blindness, deafness, sickness, disease, poison, etc. If the affliction was caused by a spell, at least the same number of [dice] must be invested to cure it. Otherwise, the number of [dice] required should be based on the severity of the affliction.
+
+[ Replicating Ammunition ]        D: [dice] rds R: touch
+Touch a piece of ammunition. Whenever it leaves the quiver, a copy of it immediately appears where it was previously. The replicas vanish at the duration’s end.
+
+[ Resist Element ]        D: [dice] minutes        R: touch
+Target absorbs up to [sum] points of damage of an elemental type you select (acid, cold, electricity, fire, etc).
+
+[ Restoration ]        R: touch
+Restores levels lost to level drain. You must spend [dice] equal to the levels lost - you can’t cure them bit by bit.
+
+[ Resurrection ]        R: touch
+Dead creature is returned to life. They must have died within [dice]x10 minutes. If their HD was greater than [dice], they return to life with negative levels equal to the difference.
+
+[ Reveal Illusions ]        R: 30’
+Strips away all illusions within 30’ of you, unless more [dice] were used in their casting than you invested in this spell.
+
+[ Reverse Gravity ]        D: [dice] minutes        R: 30’
+Affects 10 sq.ft. per [dice]. Gravity is reversed in the area. You can lock the dice to make the effect permanent.
+
+[ Sanctuary ]                D: [dice] rounds         R: touch
+Target is protected by an invisible bubble of force for the duration. They can’t affect anything outside the bubble, and nothing outside the bubble can affect them. Unwilling creatures can save to resist.
+
+[ Sebaceous Twin ]        D: [dice] rounds        R: touch
+A parasitic twin bursts from the victim’s midsection. At the start of round, they save or lose 1 Strength. Each time they receive healing, extend the duration. Each time they take damage, reduce the duration by 1 round. If taking damage reduces the duration to zero, the twin is violently excised and the victim starts bleeding.
+
+[ See Invisible ]        D: [dice] minutes        R: touch
+Target can see all invisible things, unless the invisibility spell used more [dice] than are invested in this spell.
+
+[ Shadow Step ]        D: [dice] minutes        R: self
+During the spell’s duration, you can teleport from a shadow to any other shadow you can see.
+
+[ Share Senses ]        D: [dice] minutes        R: touch
+You and the creature you touch can freely exchange sensory information for the duration - ie they can see through your eyes, feel what you touch, smell what you smell, etc; and vice-versa.
+
+[ Silence ]        D: [dice] minutes        R: 20’ radius
+No sound can be emitted in the radius.
+
+[ Slow ]        D: [dice] rounds        R: 120’
+Target moves at half speed for the duration.
+
+[ Slumber ]        R: 60’
+Up to [sum] HD of creatures in the radius save or fall asleep.
+
+[ Speak With Dead ]        D: [dice] minutes
+You can ask a dead creature up to [dice] questions, and it will answer - though it is not obligated to be truthful.
+
+[ Spell Resistance ]        D: [dice] minutes        R: touch
+For the duration, any time a spell affects the target, the caster must roll d20 greater than or equal to [sum] or the spell has no effect.
+
+[ Steal Size ]                D: [dice] minutes        R: touch
+You double in size. The target halves in size.
+
+[ Stinking Cloud ]        D: [dice] minutes        R: 120’
+Creates a cloud 20’ in diameter. Anything within the cloud saves each round or is horribly sickened - they take a -2 penalty to all rolls, and the sickness persists 1d4+1 rounds after they leave the cloud.
+
+[ Stone to Flesh ]        R: touch
+Heals [sum] points of petrification (see the Flesh to Stone spell).
+
+[ Stoneskin ]                D: [dice] minutes        R: touch
+Target reduces all non-magical damage taken by 5 for the duration. They’re also immune to bleeding.
+
+[ Stunning Barrier ]        D: [dice] rounds         R: self
+Any time a creature attacks you in melee, they must save (before rolling the attack) or be stunned for 1 round.
+
+[ Summon ]        D: [dice] rounds        R: 30’
+Summon a creature you have seen before with HD up to [dice]. It serves you for the duration. You can lock the dice to keep the summoned creature around.
+
+[ Suppress Curse ]        D: [dice] hours        R: touch
+The target ignores the effects of a single curse of your choice for the spell’s duration.
+
+[ Swarm of Wasps ]        D: permanent
+Summon a swarm of wasps (about 10x[sum]) in number). They won’t leave the approximate area in which they are summoned, but they ruthlessly harass anything within.
+
+[ Telepathic Link ]        D: [dice] hours
+Link up to [dice] + 1 willing creatures to one another; they can communicate telepathically over any distance, so long as they’re on the same plane. You can lock the dice to make the effect permanent.
+
+[ Teleport ]                R: [dice] miles
+Teleport to a place you have been before and can visualize. Alternately, you can specify a direction and a distance, but this is Not Recommended.
+
+[ True Form ]                R: 120’
+Removes polymorph effects. Effects with more [dice] invested than are used in this spell are unaffected.
+
+[ Unwilling Shield ]        D: [dice] rounds        R: 120’
+Any time you take damage, the target takes the same amount of damage.
+
+[ Vomit Twin ]        D: [dice] rounds
+You vomit up an oozy duplicate of yourself. Every time you move, you can choose to either have the ooze-twin follow you, or not. At any time during the duration, you can instantly switch places with the twin. The twin is destroyed if it takes [sum] damage.
+
+[ Wall of Fire ]        D: [dice] rounds        R: 60’
+Creates a wall of fire, 10’ across per [dice], 10’ high and 5’ thick. Anything within 5’ of the wall takes [dice] fire damage, and anything inside the wall takes [sum] fire damage.
+
+[ Wall of Force ]        D: [dice] rounds        R: 60’
+Creates a wall, 10’ across per [dice], 10’ high and 5’ thick. Nothing can move through the wall, even incorporeal creatures, and it can’t be damaged.
+
+[ Wandering Flame ]        D: [dice] rounds  R: 30’
+Flame embeds itself in the victim & they take [sum] fire damage. At the start of the next round, the flame leaps to a random creature within 30’, damaging them as well. This continues until no new victims are available or the spell expires. The caster & their allies are not immune!
+
+[ Water Breathing ]        D: [dice] hours        R: touch
+Target can breathe underwater.
+
+[ Web ]        D: [dice] rounds        R: 120’
+Fills an area 20’ in diameter with a sticky web, which entraps anything within, and sticks to anything trying to move across it.
+
+[ Zone of Truth ]        D: [dice] minutes
+You create an area 30’ in diameter, centred on you, in which nothing can knowingly lie.
