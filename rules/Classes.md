@@ -272,13 +272,13 @@ Features:
 
 * __Never Unprepared__: While in town, you may spend any amount of money to buy an Unlabeled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can have no more than two Unlabeled Packages at a time.
 * **I have that somewhere...**: You gain +[templates] equipment slots, which may be only used for specialist tools (lockpicking kits, climbing kit, etc. -> non-combat and non-magical tools) or for Unlabeled Packages.
-* **In a pinch**: When trying a skill check, you may use a toolkit not quite made for the situation (e.g. climbing piton to try and pick a lock). If you fail the check, write a mark on this toolkit, and if you fail a second time with a marked toolkit, it is destroyed.
+* **In a pinch**: When trying a skill check, you may use a toolkit not quite made for the situation (e.g. climbing piton to try and pick a lock). If you fail the check, the toolkit lose 1 point of durability.
 * __Jack of all Trades__: While making a skill check, if you use a specialist tool, you retain Skill Dices on a 4 or lower.
 
 Mishaps:
 
-* Your tools get nicked. Write a mark on the toolkit used, on the second mark the tool is destroyed. Note: Yes, this is cumulative with the **In a pinch** feature.
-* 
+* Your tools get nicked. The toolkit you used for the skill check lose 1 point of durability.
+* Fatigue starts to set in. Mark off 1 inventory slot until your next full rest.
 
 **Starting Equipment**:
 
