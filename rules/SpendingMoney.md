@@ -1,5 +1,26 @@
 # Spending Money
 
+- [Spending Money](#spending-money)
+  - [Introduction](#introduction)
+  - [Cost of living](#cost-of-living)
+  - [Equipment](#equipment)
+    - [Inventory & Resources](#inventory--resources)
+      - [Inventory](#inventory)
+      - [The Resource Die](#the-resource-die)
+      - [Resources](#resources)
+    - [Standard Equipment](#standard-equipment)
+      - [Durability](#durability)
+      - [Weapons](#weapons)
+      - [Armors](#armors)
+      - [Adventuring Gear](#adventuring-gear)
+    - [Magic Items](#magic-items)
+  - [Henchpersons and Hirelings](#henchpersons-and-hirelings)
+    - [Henchpersons](#henchpersons)
+    - [Hirelings](#hirelings)
+  - [Spell Research](#spell-research)
+  - [Magic Item Creation](#magic-item-creation)
+  - [Strongholds and Influence](#strongholds-and-influence)
+
 ## Introduction
 
 In this document are various unsorted rules and tools that players may use to help them while adventuring.
@@ -20,21 +41,31 @@ Inventory management is the backbone of sandbox play, and must be followed.
 
 In order to facilitate this aspect of play, PCs have a number of item slots equal to their Constitution defense, and items they carry must fit into available slots. Most items take up one slot, but some take up more. Some small items can be bundled together into a single slot. Ask the referee if you are unsure.
 
+#### The Resource Die
+
+Some resources are tracked with a Resource Die, instead of an explicit count. The Resource Die is single die, on the die chain from `d12` to `d4` : `d12 -> d10 -> d8 -> d6 -> d4`. To track usage for such a resource, after each significant use, roll the usage die: on a 1, reduce the dice one step on the dice chain. When rolling a 1 on a d4 usage die, the resource runs out.
+
 #### Resources
 
 There are 4 kinds of depletable resources: Food, Water, Light and Arrows.
 
-* Food: Rations come either as Standard or Dried packages. Either kind can fit 5 days worth of it (for 1 person) in 1 inventory slot, however Standard rations will spoil in a week, whereas Dried rations spoil in a month
-* Water: Like food, water is necessary for survival. You can fit 5 days of water for 1 person in 1 inventory slot.
-* Light
-  * Torches: Torches burn for about 6 turns (1hr), you can fit 5 of them in 1 inventory slot
-  * Lantern and Oil: A unit of oil burns for about 18 turns (3hrs), but you need a lantern to use it as a source of light. 5 units of oil take 1 inventory slot, and a lantern takes another by itself.
-* Arrows and Bolts
-  * 
+- Food: Rations come either as Standard or Dried packages. Either kind can fit 5 days worth of it (for 1 person) in 1 inventory slot, however Standard rations will spoil in a week, whereas Dried rations spoil in a month
+- Water: Like food, water is necessary for survival. You can fit 5 days of water for 1 person in 1 inventory slot.
+- Light
+  - Torches: Torches burn for about 6 turns (1hr), you can fit 5 of them in 1 inventory slot
+  - Lantern and Oil: A unit of oil burns for about 18 turns (3hrs), but you need a lantern to use it as a source of light. 5 units of oil take 1 inventory slot, and a lantern takes another by itself.
+- Arrows and Bolts
+  - Ammunition for ranged weapons is handled with a Resource Die. A `d12` takes 3 slots, a `d10` takes 2 slots, and `d8` and lower take 1 inventory slot.
+
+Currency also takes space in your inventory: Each 200 coins take 1 inventory slot.
 
 ### Standard Equipment
 
 Standard equipment may be bought in town in reasonable quantities (buying 20m/60ft of rope every few days of adventuring is fine, buying 1km of it at once is not).
+
+#### Durability
+
+Most equipment has 3 durability points. Rough use may damage the item, removing durability points. When an item has no durability remaining, it is broken beyond repair.Regaining durability requires repairs, take 10% of the item cost for each missing durability point.
 
 #### Weapons
 
