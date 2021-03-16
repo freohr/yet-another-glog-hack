@@ -1,5 +1,18 @@
 # Class Templates
 
+- [Class Templates](#class-templates)
+  - [Introduction](#introduction)
+  - [Ancestry Templates](#ancestry-templates)
+    - [Humans](#humans)
+    - [Elves](#elves)
+    - [Dwarves](#dwarves)
+    - [Halfling](#halfling)
+  - [Occupation Templates](#occupation-templates)
+    - [Fighter](#fighter)
+    - [Cleric](#cleric)
+    - [Magic-User (Arcane)](#magic-user-arcane)
+    - [Specialist](#specialist)
+
 ## Introduction
 
 Player Characters start at level 1 and choose their first template during character creation. From level 2 onward, during [level up](./PlayerRules.md#Leveling-up-Training-with-the-masters), characters may choose additional class template to gain a few specialization bonus and tools. Characters cannot have more than 6 class templates in total.

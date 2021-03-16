@@ -2,6 +2,15 @@
 
 This document is available to players for information and fairness, but it only contains rules used by the referee to adjudicate PCs actions.
 
+- [Referee Rules](#referee-rules)
+  - [NPCs Reaction](#npcs-reaction)
+    - [Encounter Reaction](#encounter-reaction)
+      - [Table X : Reaction Roll Results](#table-x--reaction-roll-results)
+    - [Morale](#morale)
+      - [Table X: General Situations to check for Morale](#table-x-general-situations-to-check-for-morale)
+      - [Table X: Standard Morale scores for NPCs](#table-x-standard-morale-scores-for-npcs)
+      - [Table X: Usual Morale Modifiers](#table-x-usual-morale-modifiers)
+
 ## NPCs Reaction
 
 ### Encounter Reaction
@@ -30,20 +39,20 @@ To check for Morale, roll 2d10, adjust with any relevant modifier, then compare 
 
 #### Table X: General Situations to check for Morale
 
-* 25% of group has fallen
-* 50% of group has fallen
-* Each companion that dies after 50% of the group has fallen
-* Leader of a group deserts or falls
-* Fighting creatures that cannot be harmed due to magical protections
-* First round after being surprised
-* Faced with a vastly superior force
-* Ally is slain by magic
-* Ordered to attempt a suicidal task
-* Offered a bribe or tempting but dangerous request (§1)
-* Ordered to cover a withdrawal or act as rearguard
-* Ordered to use a charge from a personal, powerful magic item (§1)
-* Offered a chance to surrender (assuming one or more of the other morale conditions is in effect)
-* Surrounded or completely overwhelmed
+- 25% of group has fallen
+- 50% of group has fallen
+- Each companion that dies after 50% of the group has fallen
+- Leader of a group deserts or falls
+- Fighting creatures that cannot be harmed due to magical protections
+- First round after being surprised
+- Faced with a vastly superior force
+- Ally is slain by magic
+- Ordered to attempt a suicidal task
+- Offered a bribe or tempting but dangerous request (§1)
+- Ordered to cover a withdrawal or act as rearguard
+- Ordered to use a charge from a personal, powerful magic item (§1)
+- Offered a chance to surrender (assuming one or more of the other morale conditions is in effect)
+- Surrounded or completely overwhelmed
 
 > §1: Check Morale to see if the NPC accepts or refuses.
 

@@ -1,5 +1,16 @@
 # Discovering your character
 
+- [Discovering your character](#discovering-your-character)
+  - [0. Read the Agendas](#0-read-the-agendas)
+  - [1. Roll your stats](#1-roll-your-stats)
+  - [2. Choose (or roll) your first Class Template](#2-choose-or-roll-your-first-class-template)
+  - [3. Roll for your background](#3-roll-for-your-background)
+  - [4. Choose your equipment](#4-choose-your-equipment)
+  - [5. Decide who you are and why you are here](#5-decide-who-you-are-and-why-you-are-here)
+    - [A. Choose a Name](#a-choose-a-name)
+    - [B. Describe your character](#b-describe-your-character)
+    - [C. Find a reason for your character to be adventuring in this campaign rather than staying at home](#c-find-a-reason-for-your-character-to-be-adventuring-in-this-campaign-rather-than-staying-at-home)
+
 ## 0. Read the Agendas
 
 The Agendas are guidelines about the kind of game experience this rule-set aim to facilitate, you should familiarize with them [here](Agendas.md).
