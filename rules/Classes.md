@@ -45,17 +45,17 @@ Features:
 
 Mishaps:
 
-* 
+-
 
 Starting Equipment:
 
 Previous Profession (before your adventuring life), and a starting item:
 
-1. City Guard
-2. Exile
+1. City Guard: A spear and a lantern (with 1 unit of lamp oil)
+2. Exile: Nothing, but you get lost in the wilderness half as much as other adventurers
 3. Noble: An expensive fur cloak and a signet ring
 4. Merchant: a set of scales and a small abacus
-5. Farmer/Shepherd (choose one)
+5. Farmer/Shepherd (choose one): A wooden pitchfork and a sac of grains/A crook, and a leather sling (with "d6" stones)
 6. Pilgrim: A set of prayer beads and walking stick
 
 ### Elves
@@ -69,32 +69,32 @@ As an Elf, you gain an Elf die with every template, which may be used either as 
 |C|+1 E(F/M)||
 |D|+1 E(F/M)||
 
-* **Fey Ancestry**: You deepen your connection to the Fey Realms. As a result you cannot lie, and take 1 point of damage whenever you touch iron for each Elf Die you possess. However, whenever someone breaks their word with you, they take 1d6 mental damage.
-* **Fey Sight**: You can see invisible things. Such as spells and emotions. You also see people who frequently lie. They look less... real, then everything else. Cannot be turned off yet it can be ignored.
+- **Fey Ancestry**: You deepen your connection to the Fey Realms. As a result you cannot lie, and take 1 point of damage whenever you touch iron for each Elf Die you possess. However, whenever someone breaks their word with you, they take 1d6 mental damage.
+- **Fey Sight**: You can see invisible things. Such as spells and emotions. You also see people who frequently lie. They look less... real, then everything else. Cannot be turned off yet it can be ignored.
 
 *
 
 Mishaps:
 
+-
 * 
-*
 
 Dooms:
 
 *
 *
-* You loose your connection to the Fey Realms, and with it your ageless immortality. You now age as a human, and if you are already older than the high limit for human age, you only have 1d10 years remaining to live.
+- You loose your connection to the Fey Realms, and with it your ageless immortality. You now age as a human, and if you are already older than the high limit for human age, you only have 1d10 years remaining to live.
 
 Starting Equipment:
 
 Previous Profession (before your adventuring life), and a starting item:
 
 1. Herbalist: A pair of scissors, and a mortar and pestle
-2. Forest Warden: A longbow (with arrows) and a keen sense of direction
-3.
-4.
-5.
-6.
+2. Forest Warden: A longbow (with "d6" arrows) and a keen sense of direction
+3. Storyteller: a nice scarf, and a knowledge of legends and stories of yore
+4. Myconid Farmer: a wicker basket full of edible mushrooms (3 units worth)
+5. Emissary: A embroidered cape, and a silver signet ring
+6. Alchemist: A vial of acid, and d4 empty glass vials
 
 ### Dwarves
 
@@ -105,27 +105,27 @@ Previous Profession (before your adventuring life), and a starting item:
 |C|+1 F||
 |D|+1 F||
 
-*
-*
+-
+-
 
 Mishaps:
 
-* 
-*
+-
+-
 
 Starting Equipment:
 
-* a sturdy helmet
-* a beard grooming kit (various combs, ties, polish, etc.)
+- a sturdy helmet
+- a beard grooming kit (various combs, ties, polish, etc.)
 
 Previous Profession (before your adventuring life), and a starting item:
 
 1. Rune-carver
 2. Tax Collector: A list of debtors to collect and a mandate.
 3. Tunneler: A sturdy pickaxe and a frontal lantern
-4. Smith (Choose Forge or Jewellery): A set of appropriate crafting tools
-5. 
-6.
+4. Smith (Choose Forge or Jewelry): A set of appropriate crafting tools, and an appropriate trinket
+5. Brewer: A reinforced tankard, and a bottle of alcohol (your choice)
+6. hjgjh
 
 ### Halfling
 
@@ -141,8 +141,8 @@ Previous Profession (before your adventuring life), and a starting item:
 
 Mishaps:
 
+-
 * 
-*
 
 Starting Equipment:
 
@@ -170,19 +170,19 @@ In this rule-set, Fighters are more about becoming heroes of legends, than about
 
 Benefits:
 
-* __Mighty Deeds of Arm__: While most adventurers can try and shove, grapple, trip opponents in combat, your prowess allows you to do so even while attacking. Before rolling for an attack, you may declare a Mighty Deed, and doing so, roll a Fighting Die with the attack. If the Fighting Die rolls a 3 or higher AND you hit with your attack, your daring maneuver succeeds, and you describe the resulting actions in addition to your damage.
-* __Fray Attacks__: When attacking, you may spent Fighting Dices to injure foes of lesser might. You deal [sum] damage (no need to roll for attack, you automatically hit for this), that you can spread among enemies that have less HD than your level.
-* __Start of a Legacy__: Your deeds of arm have become known throughout the realm, and with that so has your weapon. Give a name to your weapon, and now wielding it allows you to inspire allies and intimidate enemies. When an NPC rolls for morale, you may spend Fighting Dice to add them to the roll.
-  * For allied NPC, morale is now the best 2 rolls of the dice pool
-  * For enemy NPC, morale is now the worst 2 rolls of the dice pool
-* __Leader of Men__: You attract the service of a squire, a level 1 Fighter A, as a Hench-person who doesn't count against your lifelong Hench-person limit. You may also employ +[templates] additional hirelings as a reduced wage rate (count them as one die lower on the dice chain for their salary).
-* __A Legend is Born__: Your named weapon has become, through your renown and Fate itself, a legendary artifact; give it an epithet to complement its name. Your name, deeds and its story will be sung in the epics of years to come. It now grants its wielder (which would be you, for now...) an additional Fighting Die, as well as your choice of either a +1 bonus to both attack and damage, or a +1 to AC.
+- __Mighty Deeds of Arm__: While most adventurers can try and shove, grapple, trip opponents in combat, your prowess allows you to do so even while attacking. Before rolling for an attack, you may declare a Mighty Deed, and doing so, roll a Fighting Die with the attack. If the Fighting Die rolls a 3 or higher AND you hit with your attack, your daring maneuver succeeds, and you describe the resulting actions in addition to your damage.
+- __Fray Attacks__: When attacking, you may spent Fighting Dices to injure foes of lesser might. You deal [sum] damage (no need to roll for attack, you automatically hit for this), that you can spread among enemies that have less HD than your level.
+- __Start of a Legacy__: Your deeds of arm have become known throughout the realm, and with that so has your weapon. Give a name to your weapon, and now wielding it allows you to inspire allies and intimidate enemies. When an NPC rolls for morale, you may spend Fighting Dice to add them to the roll.
+  - For allied NPC, subtract -[highest] from the morale roll
+  - For enemy NPC, add +[highest] to the morale roll
+  - *Reminder*: As morale is roll under, a lower score is better.
+- __Leader of Men__: You attract the service of a squire, a level 1 Fighter A, as a Hench-person who doesn't count against your lifelong Hench-person limit. You may also employ +[templates] additional hirelings as a reduced wage rate (count them as one die lower on the dice chain for their salary).
+- __A Legend is Born__: Your named weapon has become, through your renown and Fate itself, a legendary artifact; give it an epithet to complement its name. Your name, deeds and its story will be sung in the epics of years to come. It now grants its wielder (which would be you, for now...) an additional Fighting Die, as well as your choice of either a +1 bonus to both attack and damage, or a +1 to AC.
 
 Mishaps:
 
-* You trip over your feet, or suffer any other action unsightly of your prestige. The next morale check for your hirelings and henchpeople is rolled at a -2 malus.
-* 
-
+- You trip over your feet, or suffer any other action unsightly of your prestige. The next morale check for your hirelings and henchpeople is rolled at a +2 malus.
+- Bad movement results in dents to your equipment. If you were attacking, your weapon lose 1 durability; if you were defending, your armor or your shield lose 1 durability.
 
 Starting Equipment:
 
@@ -209,7 +209,7 @@ Previous Profession (before your adventuring life), and a starting item:
 
 Mishaps:
 
-* 
+-
 *
 
 Dooms:
@@ -217,7 +217,6 @@ Dooms:
 *
 *
 *
-
 
 Starting Equipment:
 
@@ -244,7 +243,7 @@ Previous Profession (before your adventuring life), and a starting item:
 
 Mishaps:
 
-* 
+-
 *
 
 Dooms:
@@ -255,9 +254,9 @@ Dooms:
 
 Starting Equipment:
 
-* A Spellbook with 3 random spells, and 2d3 blank pages (you can write at most 1 spell per page)
-* Travelling Robes
-* A big pointy hat (describe it to the table)
+- A Spellbook with 3 random spells, and 7 blank spell pages (you can write at most 1 spell per page). Roll 3d24 on the [arcane spell list](magic/spell-schools.md), you get each roll as a spell in your starting spellbook (reroll duplicates)
+- Travelling Robes
+- A big pointy hat (describe it to the table)
 
 Previous Profession (before your adventuring life), and a starting item:
 
@@ -283,20 +282,20 @@ As a specialist, you gain a Skill die for each template (noted in the table belo
 
 Features:
 
-* __Never Unprepared__: While in town, you may spend any amount of money to buy an Unlabeled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can have no more than two Unlabeled Packages at a time.
-* **I have that somewhere...**: You gain +[templates] equipment slots, which may be only used for specialist tools (lockpicking kits, climbing kit, etc. -> non-combat and non-magical tools) or for Unlabeled Packages.
-* **In a pinch**: When trying a skill check, you may use a toolkit not quite made for the situation (e.g. climbing piton to try and pick a lock). If you fail the check, the toolkit lose 1 point of durability.
-* __Jack of all Trades__: While making a skill check, if you use a specialist tool, you retain Skill Dices on a 4 or lower.
+- __Never Unprepared__: While in town, you may spend any amount of money to buy an Unlabeled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can have no more than two Unlabeled Packages at a time.
+- **I have that somewhere...**: You gain +[templates] equipment slots, which may be only used for specialist tools (lockpicking kits, climbing kit, etc. -> non-combat and non-magical tools) or for Unlabeled Packages.
+- **In a pinch**: When trying a skill check, you may use a toolkit not quite made for the situation (e.g. climbing piton to try and pick a lock). If you fail the check, the toolkit lose 1 point of durability.
+- __Jack of all Trades__: While making a skill check, if you use a specialist tool, you retain Skill Dices on a 4 or lower.
 
 Mishaps:
 
-* Your tools get nicked. The toolkit you used for the skill check lose 1 point of durability.
-* Fatigue starts to set in. Mark off 1 inventory slot until your next full rest.
+- Your tools get nicked. The toolkit you used for the skill check lose 1 point of durability.
+- Fatigue starts to set in. Mark off 1 inventory slot until your next full rest.
 
 **Starting Equipment**:
 
-* 1 specialist toolkit of your choice
-* 1 belt with many pouches
+- 1 specialist toolkit of your choice
+- 1 belt with many pouches
 
 **Previous Profession** (before your adventuring life)
 
