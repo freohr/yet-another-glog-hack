@@ -28,7 +28,10 @@
     - [Why and How: "Treasure Value-for-XP", a.k.a. Earning XP by uncovering treasure](#why-and-how-treasure-value-for-xp-aka-earning-xp-by-uncovering-treasure)
     - [Leveling up: Training with the masters](#leveling-up-training-with-the-masters)
     - [Backup Experience](#backup-experience)
-  - [Death and Dismemberment](#death-and-dismemberment)
+  - [Injuries, Dismemberment and Death](#injuries-dismemberment-and-death)
+    - [Incurring Injuries](#incurring-injuries)
+    - [Recovering from injuries](#recovering-from-injuries)
+    - [A new Path](#a-new-path)
 
 ## Attributes
 
@@ -232,11 +235,44 @@ After training, characters advance in level and obtain each benefit listed in th
 
 When gaining Experience, you may add an extra 20% of it to your **Backup Experience**, used to level up new characters after your current character either dies or retires.
 
-## Death and Dismemberment
+## Injuries, Dismemberment and Death
+
+### Incurring Injuries
 
 Death is par for the course when adventuring, but it need not be a tragedy. The basics of it are:
 
-- When your accrued damage is equal to your Resilience, roll on the **Death and Dismemberment** table below.
-- When your accrued damage exceeds your Resilience, your character is mortally wounded, and is allowed one last goodbye before passing on.
+- When your accrued damage reach your Resilience, roll on the **Dismemberment** table below.
+  
+Which means in practice:
+
+- You are out of the action. You need at least a full hour in a safe space to gather your spirits, and even additional first aid depending on the injury sustained.
+- You suffer the rolled injury, which takes out one of your inventory slots.
+  - If the slot contained an item, you drop it at the moment you suffer the injury.
+  - To ease tracking, write your injuries starting from the end of your inventory.
+
+To roll on the **Dismemberment** table, roll 1d10 + the number of injuries you currently suffer from, then diegetically adjust to the current situation.
+
+*Table X: Injuries & Dismemberment*
+|  Die  |     Injury     | Immediate Effect                                                                                     | Until recovery                                                                                      |
+| :---: | :------------: | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+|  1-2  |  Maybe a scar  | Definitely a scar. Roll a d4, on a 1, it's located where you can hide it within your clothes         | Nothing, luckily                                                                                    |
+|  3-4  |   Concussion   | You cannot use Action die for the rest of the day                                                    | Nothing, yet                                                                                        |
+|  6-7  | Lost extremity | Roll d6 to find out what you lost: <br/>1. Fingers (d3); 2. Hand; 3. Nose; 4. Ear; 5. Eye; 6. Looks. | Disadvantage on tasks requiring that former extremity.                                              |
+|   8   |  Leg Useless   | Pass out from the pain. You need an additional hour to regain consciousness                          | Can’t run. Disadvantage on agility tasks                                                            |
+|   9   |  Arm Useless   | Pass out from the pain. You need an additional hour to regain consciousness                          | Disadvantage when needing both arms or if it was the dominant hand                                  |
+|  10   |   Head wound   | Lose half your action dice.                                                                          | Disadvantage on all rolls                                                                           |
+|  11   |   Lost Limb    | You can't stand on your own, needing help and support to move                                        | Same as useless leg or arm, but it won't regrow. Disadvantage becomes a permanent -2 after recovery |
+|  12   |   Hemorrhage   | You are bleeding out, and need tending to in d4 turns or you will die exsanguine.                    | Your action dice count as 3 (for the total roll, not the keeping-it part) when rolled as 3+.        |
+|  13+  |     Death      | Your luck has run out, and Death comes to take its toll                                              | You aren't expected to recover from this one...                                                     |
+
+### Recovering from injuries
+
+To recover from injuries, you need rest, plain and simple. You need 1 cumulative week of rest for each injury you currently have to recover from them, e.g. if you currently have 3 injuries, you need 3 weeks to recover from one injury, then 2 weeks for the next, then 1 week for the last one.
+
+After recovery, you regain the inventory slots incapacitated by injury.
+
+You may choose to interrupt rest if you wish to go back adventuring before full recovery, but you only heal after each rest threshold (N weeks of rest for an injury when you have N injuries)
+
+### A new Path
 
 Now, loosing a character does not means the end of it all: If you are adventuring which henchpeoples (either one of your character's, or one of a fellow character's), you are allowed to "promote" one of them, and adopt them as your new PC. If you prefer to create another PC, say so to the Referee, roll another one using the rules in [Character Discovery](CharacterCreation.md). After choosing which character to play, you may use any [backup Experience](#backup-experience) to level them up, up to half your previous PC level, on the spot if you wish to (you may also restart from level 1 if you prefer).

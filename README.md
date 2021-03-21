@@ -14,8 +14,7 @@ Rules
 * [Character Rules](rules/PlayerRules.md)
   * [x] [Character Creation](rules/CharacterCreation.md)
   * [x] Using Stats
-  * [ ] Advancement
-  * [ ] Death & Dismemberment
+  * [x] Death & Dismemberment
 * [Spending Money](rules/SpendingMoney.md)
   * [ ] Cost of Living
   * [ ] Items and Equipment
