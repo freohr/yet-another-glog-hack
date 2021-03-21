@@ -1,4 +1,6 @@
-# yet-another-glog-hack
+# HEXGLOG
+
+The Hexagonal Goblin' Laws of gaming (because hexagons are bestagons).
 
 ## Inspirations
 
