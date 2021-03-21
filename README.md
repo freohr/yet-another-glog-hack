@@ -38,7 +38,7 @@ Rules
     * Features
     * Mishaps
     * Dooms (If using magic dice)
-* [Procedures](rules/PlayProcedure.md)
+* [Procedures](rules/TurnBasedProcedures.md)
   * [x] Overloaded Encounter Die
   * [x] Combat
   * Exploration
