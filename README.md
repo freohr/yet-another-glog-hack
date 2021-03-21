@@ -17,7 +17,7 @@ Rules
   * [x] Advancement
   * [x] Death & Dismemberment
 * [Spending Money](rules/SpendingMoney.md)
-  * [ ] Cost of Living
+  * [x] Cost of Living
   * [ ] Items and Equipment
   * [ ] Hirelings and Henchpeople
   * [ ] Strongholds and Influence

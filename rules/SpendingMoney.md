@@ -27,7 +27,15 @@ In this document are various unsorted rules and tools that players may use to he
 
 ## Cost of living
 
-Day-to-day expenses are aggregated in a weekly paid cost-of-living.
+Day-to-day expenses are aggregated in a weekly paid cost-of-living. Those expenses must be paid weekly, and provides various benefits and drawbacks depending on what you choose to pay for.
+
+*Table X: Cost and Condition of living*
+|  Lifestyle   | Weekly Cost | Description                                                                                                                                               | Benefits                                                                                                                                                                                                                                            |
+| :----------: | :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Impoverished |    5 sp     | Covers only the bare minimum of food and a mostly-dry squat to sleep in.                                                                                  | -2 to max Resilience, and you must make a CON Save each morning to benefit from full rest. If you fail, you only recover 1 HP                                                                                                                       |
+|    Common    |    20 sp    | Adequate food and a shabby private inn room.                                                                                                              | No penalties or benefits                                                                                                                                                                                                                            |
+|     Rich     |   200 sp    | Includes a rented town-house, a small staff of house servants, and social entree into high society circles that are forgiving of the nouveau rich         | +2 to max Resilience due to good conditions of living                                                                                                                                                                                               |
+|  Bourgeois   |  1,000 sp   | Provides the very best the community can offer in fine lodging, luxuriant food, sycophantic servants, and the provisional friendship of useful parasites. | As Rich, and You get a personal Butler (as an additional Henchperson) who can, in addition to its usual skills, once per game session, be asked a favor and will perform it, provided it is not more than mildly humiliating, dangerous or illegal. |
 
 ## Equipment
 
