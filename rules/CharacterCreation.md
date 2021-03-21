@@ -38,7 +38,7 @@ Note the equipment given by your background in your inventory.
 
 ## 4. Choose your equipment
 
-Your starting gold is (1d6 + 4) * 10 gp (between 50 and 100 gp).
+Your starting gold is (1d6 + 4) * 10 gp (between 50 and 100 gp). You also start with a backpack or a strapped satchel (your choice) to hold your gear, if your background or your template doesn't give you one.
 
 Using the [Basic Fantasy Equipment Emporium](https://basicfantasy.org/downloads/EE1-Equipment-Emporium-r24.pdf) as a reference, you can buy whatever complementary equipment you want, but be mindful of your inventory size. For ease of decision, you can look at page 20 (20 in the book/24 in the pdf) of the EE for starting packages.
 
