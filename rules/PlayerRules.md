@@ -27,6 +27,7 @@
   - [Advancement](#advancement)
     - [Why and How: "Treasure Value-for-XP", a.k.a. Earning XP by uncovering treasure](#why-and-how-treasure-value-for-xp-aka-earning-xp-by-uncovering-treasure)
     - [Leveling up: Training with the masters](#leveling-up-training-with-the-masters)
+    - [Leveling Up: Beyond Training](#leveling-up-beyond-training)
     - [Backup Experience](#backup-experience)
   - [Injuries, Dismemberment and Death](#injuries-dismemberment-and-death)
     - [Incurring Injuries](#incurring-injuries)
@@ -92,7 +93,7 @@ When trying to resist dangerous effects, you make a saving throw, or “save”.
 
 Player Characters start at level 0, without any class template. From level 1 onward, during [level up](#leveling-up-training-with-the-masters), characters may choose a class template to gain a few specialization bonus and tools. Characters cannot have more than 6 class templates in total.
 
-Templates from different classes may be taken without restriction (mixing and matching is encouraged to customize and/or specialize your character), but they may only be taken in order, e.g. a "Fighter C" template may not be taken until the character has also taken the "A" and "B" template, but a "Pyromancer A" template may be taken along a "Catburglar B" template.
+Templates from different classes may be taken without restriction (mixing and matching is encouraged to customize and/or specialize your character), but they may only be taken in order, e.g. a "Fighter C" template may not be taken until the character has also taken the "A" and "B" template, but a "Pyromancer A" template may be taken along a "Cat-burglar B" template.
 
 Each class template grants specialized abilities, as well as one [Action Die](#action-dices) of a specific type, and unique ways to use them in play.
 
@@ -127,7 +128,7 @@ If you roll doubles when attacking, roll on your class's mishap table. If you ga
 
 ### Skill Dices
 
-Skill dices are granted by templates that enhance a character ability for non-combat, non-magic skills (as a thief, a tracker, a crafter).
+Skill dices are granted by templates that enhance a character ability for non-combat, non-magic skills (as a thief, a tracker, a crafting specialist).
 
 #### Basic Skill Die Usages
 
@@ -150,7 +151,7 @@ It takes 1hr to move any number of spells between your brain and a scroll, spell
 
 To cast a spell, select a number of Magic Dice (MD) you wish to invest, roll them, and add the numbers together. Most spells depend on the number of [dice] invested and the [sum] they show. If you roll doubles, see the Mishap section. If you roll triples, see the Doom section.
 
-Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4-6 are removed from your casting pool for the day. Your spells return at sunrise to last location they were imprisoned, when the octarine light of the sun touches the world and infuses Creation with an extra boost of raw magic. Your MD return if you get a good night's sleep. If you didn't sleep well, you can Save Int for each MD to have them return to your pool anyway.
+Dice that roll 1-3 return to your casting pool and can be used again that day. Dice that roll 4-6 are removed from your casting pool for the day. Your spells return at sunrise to last location they were imprisoned, when the octarine light of the sun touches the world and infuses Creation with an extra boost of raw magic. Your MD return if you get a good night's sleep. If you didn't sleep well, you can Save with Int for each MD to have them return to your pool anyway.
 
 #### Spellbooks
 
@@ -172,7 +173,7 @@ Non-spell-casters can use wands. If they suffer a Mishap, use the table from the
 
 #### Identifying Magic
 
-Wizards can smell magic in the air. By tasting, rubbing, or closely inspecting an item, you can tell if it is magic. You may need to test the item to determine what type of magic. You can test Intelligence to see if you can learn anything else about the item without testing it.
+Wizards can smell magic in the air. By tasting, rubbing, or closely inspecting an item, you can tell if it is magic. You may need to test the item to determine what type of magic. You can make an Intelligence skill check to see if you can learn anything else about the item without testing it.
 
 #### Magic Mishaps
 
@@ -208,7 +209,7 @@ For this rule-set, XP is counted thus: **Each 1 Silver Piece of treasure brought
 
 To advance in level, your total XP must be above your next level threshold. When this happen, you may take the needed downtime to [find a master](#leveling-up-training-with-the-masters) to train you. After training is complete, you may choose 3 stats, add a +1 bonus to them (then adjust their Defense accordingly), then mark down your new Resilience maximum and you new XP threshold.
 
-*Table X: Character Advancement*
+*Table X: Character Class Advancement*
 | Level | XP Total Threshold | Max Resilience | Class Templates | Attribute Increases |
 | :---: | :----------------: | :------------: | :-------------: | :-----------------: |
 |   1   |         -          |     Con-4      |        1        |  +1 for 3 bonuses   |
@@ -217,23 +218,52 @@ To advance in level, your total XP must be above your next level threshold. When
 |   4   |        8000        |     Con+2      |        4        |  +1 for 3 bonuses   |
 |   5   |       15 000       |     Con+4      |        5        |  +1 for 3 bonuses   |
 |   6   |       30 000       |     Con+6      |        6        |  +1 for 3 bonuses   |
-|   7   |       50 000       |     Con+7      |        -        |  +1 for 3 bonuses   |
-|   8   |      100 000       |     Con+8      |        -        |  +1 for 3 bonuses   |
-|   9   |      200 000       |     Con+9      |        -        |  +1 for 3 bonuses   |
-|  10   |      500 000       |     Con+10     |        -        |  +1 for 3 bonuses   |
-|  +1   |      +300 000      |       +1       |        -        |  +1 for 3 bonuses   |
 
 As XP abstracts adventuring prowess and reputation in the current campaign setting, leveling can be done when a character reach a certain threshold by finding an NPC of the class you, the player, want your character to take a template level in and asking them to train your character. Here are the specific rules for advancement:
 
 - To be able to train for a specific class template, the party (not necessarily the character themselves) must know/have discovered an NPC or a faction that is a master of this class.
 - Training for a new level takes two weeks of downtime, starting from a safe town, including travel to and from the town.
-- Training cost gold equal to 10% of the target character level (e.g. going from lvl 1 to lvl 2 cost 10% of the lvl 2 XP threshold)
+- Training cost silver equal to 10% of the target character level
+  - For example, attaining level 2 requires a PC to find 1500s worth of treasure, then paying 150s and spending 2 weeks with a master for training.
 
-After training, characters advance in level and obtain each benefit listed in the [advancement table](#advancement) for the level they have attained.
+After training, characters advance in level and obtain each benefit listed in the advancement table, just above, for the level they have attained.
+
+### Leveling Up: Beyond Training
+
+*Table X: Character Advancement, beyond classes*
+| Level | Investment Threshold | Max Resilience | Class Templates | Attribute Increases |
+| :---: | :------------------: | :------------: | :-------------: | :-----------------: |
+|   7   |        25 000        |     Con+7      |        -        |  +1 for 3 bonuses   |
+|   8   |        50 000        |     Con+8      |        -        |  +1 for 3 bonuses   |
+|   9   |       100 000        |     Con+9      |        -        |  +1 for 3 bonuses   |
+|  10   |       200 000        |     Con+10     |        -        |  +1 for 3 bonuses   |
+|  +1   |       +200 000       |       +1       |        -        |  +1 for 3 bonuses   |
+
+After reaching level 6 (and acquiring your last class template), training is not sufficient enough to continue advancing. In order to keep advancing, characters must invest in long-lasting projects (Strongholds, Magical Workings, etc.) in order to gain experience as reputation.
+
+Furthermore, as you continue to level up, you gain titles to represent acknowledgment of your deed by the powerful of the civilized world. If you have a specific ancestry, you may choose their title list. If you have at least 3 templates in an Occupation, you may instead choose the column matching its theme for your title progression.
+
+*Table X: High level Occupation Titles*
+| Level |   Fighters   |  Magic Users  |   Cleric    |    Specialists    |     Thieves     |
+| :---: | :----------: | :-----------: | :---------: | :---------------: | :-------------: |
+|   7   |  Baron·ess   | Thaumaturgist |   Curate    |   Wrenchmaster    |   Cat Burglar   |
+|   8   |  Count·ess   |    Warlock    |   Bishop    |  Chief Mechanic   | Master Pilferer |
+|   9   |  Marquis·e   |    Wizard     |  Justiciar  | Engineer Emeritus |    Trickster    |
+|  10+  | Duke/Duchess |   Archmage    | High Priest |   Guild Master    |  Master Thief   |
+
+*Table X: High level Ancestry Titles*
+| Level |    Humans    |   Dwarves   |   Halflings   |   Elves    |
+| :---: | :----------: | :---------: | :-----------: | :--------: |
+|   7   |  Baron·ess   |    Lord     | Village Elder |  Strider   |
+|   8   |  Count·ess   |  Forgelord  |       -       |   Warden   |
+|   9   |  Marquis·e   |    Thane    |       -       |
+|  10+  | Duke/Duchess | Hammerthane |       -       | Pathfinder |
 
 ### Backup Experience
 
 When gaining Experience, you may add an extra 20% of it to your **Backup Experience**, used to level up new characters after your current character either dies or retires.
+
+Note: Even after reaching level 6, you still count 20% of the treasure brought to the safety of a town as **Backup Experience**.
 
 ## Injuries, Dismemberment and Death
 
