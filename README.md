@@ -1,6 +1,6 @@
-# HEXGLOG
+# HexaGLOG
 
-The Hexagonal Goblin' Laws of gaming (because hexagons are bestagons).
+The Hexagonal Goblin Laws of gaming (because hexagons are bestagons).
 
 ## Inspirations
 
@@ -13,18 +13,18 @@ The Hexagonal Goblin' Laws of gaming (because hexagons are bestagons).
 
 Rules
 
-* [Character Rules](rules/PlayerRules.md)
-  * [x] [Character Creation](rules/CharacterCreation.md)
+* [Character Rules](rules/player-rules.md)
+  * [x] [Character Creation](rules/character-creation.md)
   * [x] Using Stats
   * [x] Advancement
   * [x] Death & Dismemberment
-* [Spending Money](rules/SpendingMoney.md)
+* [Spending Money](rules/equipment-wealth.md)
   * [x] Cost of Living
   * [ ] Items and Equipment
   * [ ] Hirelings and Henchpeople
   * [ ] Strongholds and Influence
   * [ ] Spell Research and Magic Item Creation
-* [Classes](rules/Classes.md)
+* [Classes](rules/class-templates.md)
   * Ancestry
     * [ ] Humans
     * [ ] Elves
@@ -40,14 +40,14 @@ Rules
     * Features
     * Mishaps
     * Dooms (If using magic dice)
-* [Procedures](rules/TurnBasedProcedures.md)
+* [Procedures](rules/turn-based-procedures.md)
   * [x] Overloaded Encounter Die
   * [x] Combat
   * Exploration
     * [x] Wilderness
     * [ ] Dungeon
   * [ ] Domain Management
-* [Referee Rules](rules/RefereeRules.md)
+* [Referee Rules](rules/referee-rules.md)
   * [x] Morale
   * [x] Encounter Reaction
   * [ ] Other Rules?

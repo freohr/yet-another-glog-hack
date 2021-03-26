@@ -64,12 +64,14 @@ As an Elf, you gain an Elf die with every template, which may be used either as 
 
 |Template|Action Die|Benefit|
 |:-:|:-:|:--|
-|A|+1 E(F/M)|Fey Ancestry, Fey Sight|
+|A|+1 E(F/M)|Fey Ancestry(Iron Bane, Oath Bound), Fey Sight|
 |B|+1 E(F/M)||
 |C|+1 E(F/M)||
 |D|+1 E(F/M)||
 
-- **Fey Ancestry**: You deepen your connection to the Fey Realms. As a result you cannot lie, and take 1 point of damage whenever you touch iron for each Elf Die you possess. However, whenever someone breaks their word with you, they take 1d6 mental damage.
+- **Fey Ancestry**: You deepen your connection to the Fey Realms.
+  - *Iron Bane*: You take 1 point of damage whenever you touch iron for each Elf Die you possess.
+  - *Oath Bound*: You cannot lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take [X]d6 mental damage.
 - **Fey Sight**: You can see invisible things. Such as spells and emotions. You also see people who frequently lie. They look less... real, then everything else. Cannot be turned off yet it can be ignored.
 
 *
@@ -77,7 +79,7 @@ As an Elf, you gain an Elf die with every template, which may be used either as 
 Mishaps:
 
 -
-* 
+-
 
 Dooms:
 
@@ -120,12 +122,12 @@ Starting Equipment:
 
 Previous Profession (before your adventuring life), and a starting item:
 
-1. Rune-carver
+1. Runesmith: A set of engraving tools
 2. Tax Collector: A list of debtors to collect and a mandate.
 3. Tunneler: A sturdy pickaxe and a frontal lantern
 4. Smith (Choose Forge or Jewelry): A set of appropriate crafting tools, and an appropriate trinket
 5. Brewer: A reinforced tankard, and a bottle of alcohol (your choice)
-6. hjgjh
+6. Mason: A weighted string (to check verticality) and a math compass
 
 ### Halfling
 
@@ -142,14 +144,14 @@ Previous Profession (before your adventuring life), and a starting item:
 Mishaps:
 
 -
-* 
+-
 
 Starting Equipment:
 
 Previous Profession (before your adventuring life), and a starting item:
 
-1. 
-2. 
+1.
+2.
 3.
 4.
 5.
@@ -188,12 +190,12 @@ Starting Equipment:
 
 Previous Profession (before your adventuring life), and a starting item:
 
-1. Berserker
-2. Caravan Guard
-3. Noble
-4. Woodsman
-5. Sailor
-6. Mercenary
+1. Berserker: A tankard of ale, and a cool tattoo
+2. Caravan Guard: A sturdy spear, and a donkey
+3. Noble: An expensive fur-lined cloak, and a gold family signet ring
+4. Labourer: A tool-belt containing a hammer and nails
+5. Sailor: A bottle of grog, and a spyglass
+6. Watchman: A lantern and a 10ft pole
 
 ### Cleric
 
@@ -301,7 +303,7 @@ Mishaps:
 
 1. Artisan (manufacturing trade of your choice): 1 unit of trade supplies, and a crumpled list of orders
 2. Artist. (medium of your choice (painter, sculptor, etc.)): Art supplies and a fancy hat
-3. Butler: 
+3. Butler: A "small repairs" toolkit, and a proper attire.
 4. Forger: an mold of a minted coin, and a bounty on your head from a faraway land
 5. Spy: a dark cloak, and an encoded IOU
 6. Engineering Scholar: a treatise on engineering, and calipers
