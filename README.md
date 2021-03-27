@@ -6,25 +6,27 @@ The Hexagonal Goblin Laws of gaming (because hexagons are bestagons).
 
 ### What this game is about
 
-More details in the [Agendas page](rules/agendas.md)
+This game is an OSR game, which means it comes with a set of assumption about gameplay. More details in the [Agendas page](rules/agendas.md)
 
-- Adventuring and Wilderness exploration in a Fantasy World.
-- Playing human, mortal adventurers relying on their wits to survive.
+- Emergent story, based on player interaction with the world.
+- Dungeoneering, Adventuring and Exploring the wilderness in a Fantasy World.
+- Playing mortal adventurers relying on their wits to survive.
 - Braving danger for treasure with clever strategies.
 - Team effort, as survival is far from certain when adventuring alone.
 
 ### What this game is not about
 
+- Following a pre-existing narrative
 - Thespian roleplaying.
 - Exploring inter-personal relationships between PCs, other PCs, and/or NPCs.
-- Following a pre-existing narrative
+
 
 ## Inspirations
 
-- The original GLOG by Arnold K of Goblinpunch, and its reinterpretation by Skerples
-  - Also the entire GLOG community
+- The original GLOG by Arnold K of GoblinPunch, and its reinterpretation by Skerples
+  - Also the entire GLOG community. [More info here](https://madqueenscourt.blogspot.com/2020/07/glog-for-gretchlings-or-notes-towards.html)
 - Knave by Ben Milton of Questing Beast
-- The OSR blogosphere/discords/subreddits
+- The OSR blog-o-sphere/discords/subreddits
 
 ## ToDo
 
