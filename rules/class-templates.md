@@ -9,8 +9,7 @@
     - [Halfling](#halfling)
   - [Occupation Templates](#occupation-templates)
     - [Fighter](#fighter)
-    - [Cleric](#cleric)
-    - [Magic-User (Arcane)](#magic-user-arcane)
+    - [Magic-User](#magic-user)
     - [Specialist](#specialist)
 
 ## Introduction
@@ -43,11 +42,11 @@ Features:
 *
 *
 
-Mishaps:
+**Mishaps**:
 
 -
 
-Starting Equipment:
+**Starting Equipment**:
 
 Previous Profession (before your adventuring life), and a starting item:
 
@@ -181,14 +180,17 @@ Benefits:
 - __Leader of Men__: You attract the service of a squire, a level 1 Fighter A, as a Hench-person who doesn't count against your lifelong Hench-person limit. You may also employ +[templates] additional hirelings as a reduced wage rate (count them as one die lower on the dice chain for their salary).
 - __A Legend is Born__: Your named weapon has become, through your renown and Fate itself, a legendary artifact; give it an epithet to complement its name. Your name, deeds and its story will be sung in the epics of years to come. It now grants its wielder (which would be you, for now...) an additional Fighting Die, as well as your choice of either a +1 bonus to both attack and damage, or a +1 to AC.
 
-Mishaps:
+**Mishaps**:
 
 - You trip over your feet, or suffer any other action unsightly of your prestige. The next morale check for your hirelings and henchpeople is rolled at a +2 malus.
 - Bad movement results in dents to your equipment. If you were attacking, your weapon lose 1 durability; if you were defending, your armor or your shield lose 1 durability.
 
-Starting Equipment:
+**Starting Equipment**:
 
-Previous Profession (before your adventuring life), and a starting item:
+- Leather armor
+- Either sword and shield, or bow and d10 arrows
+
+**Previous Profession** (before your adventuring life), and a starting item:
 
 1. Berserker: A tankard of ale, and a cool tattoo
 2. Caravan Guard: A sturdy spear, and a donkey
@@ -197,41 +199,7 @@ Previous Profession (before your adventuring life), and a starting item:
 5. Sailor: A bottle of grog, and a spyglass
 6. Watchman: A lantern and a 10ft pole
 
-### Cleric
-
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 C(F/M)||
-|B|+1 C(F/M)||
-|C|+1 C(F/M)||
-|D|+1 C(F/M)||
-
-*
-*
-
-Mishaps:
-
--
-*
-
-Dooms:
-
-*
-*
-*
-
-Starting Equipment:
-
-Previous Profession (before your adventuring life), and a starting item:
-
-1. Cultist: a ritual dagger, and a hooded cloak
-2. Doctor: a bone-saw, and a medical diploma
-3. Initiate: a Holy symbol, and a symbol of your faith
-4. Inquisitor: a branding iron, and a Book of your faith
-5. Mortician: a bundle of incense, and a bottle of distilled spirits
-6. 
-
-### Magic-User (Arcane)
+### Magic-User
 
 [Adjusted from Skerples' Wizard](https://coinsandscrolls.blogspot.com/2017/07/osr-class-wizards.html)
 
@@ -267,7 +235,7 @@ Previous Profession (before your adventuring life), and a starting item:
 - **Master of Magics**
   - Learn up to 6 spells from your school’s spell list, or invent an entirely new spell (Work through it with your Referee).
 
-Magic Spell Schools (choose 1-6 or roll a d6):
+**Magic Spell Schools** (choose 1-6 or roll a d6):
 
 1. Orthodox Wizard
 2. White Wizard
@@ -277,13 +245,13 @@ Magic Spell Schools (choose 1-6 or roll a d6):
 6. Spell-thief
 7. Do ya feel lucky, punk? [Well, do ya? (roll a d120)](http://attnam.blogspot.com/2018/08/d50-glog-wizard-schools.html)
 
-Starting Equipment:
+**Starting Equipment**:
 
 - A spellbook with your starting spells
 - Travelling Robes (may be customized to represent your school of magic)
 - A big pointy hat (describe it to the table)
 
-Previous Profession (before your adventuring life), and a starting item:
+**Previous Profession** (before your adventuring life), and a starting item:
 
 1. Astronomer: a star chart and a sextant
 2. Archivist: Writing journal, ink and Quill
@@ -302,20 +270,28 @@ As a specialist, you gain a Skill die for each template (noted in the table belo
 |:-:|:-:|:--|
 |A|+1 S|Never Unprepared, I have that somewhere...|
 |B|+1 S|In a pinch|
-|C|+1 S||
+|C|+1 S|Tool Tinkering|
 |D|+1 S|Jack of all Trades|
 
 Features:
 
-- __Never Unprepared__: While in town, you may spend any amount of money to buy an Unlabeled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can have no more than two Unlabeled Packages at a time.
+- **Never Unprepared**: While in town, you may spend any amount of money to buy an Unlabeled Package. When the package is unwrapped, you declare what it contains, as long as the contents comprise the appropriate number of Inventory Slots, don’t cost more than you originally paid, and are available in town. You can have no more than two Unlabeled Packages at a time.
 - **I have that somewhere...**: You gain +[templates] equipment slots, which may be only used for specialist tools (lockpicking kits, climbing kit, etc. -> non-combat and non-magical tools) or for Unlabeled Packages.
 - **In a pinch**: When trying a skill check, you may use a toolkit not quite made for the situation (e.g. climbing piton to try and pick a lock). If you fail the check, the toolkit lose 1 point of durability.
-- __Jack of all Trades__: While making a skill check, if you use a specialist tool, you retain Skill Dices on a 4 or lower.
+- **Tool Tinkering**: You can attempt to merge tools and toolkits to create your own multi-tool. A Multi-tool takes only 1 slot for each 3 distinct tools it contains. A multi-tool value is the sum of the values of each of its tools.
+  1. Choose 2 toolkits you own (one may be an already made multi-tool), and spend 1 week tinkering on them.
+  2. When the process is complete, Save (straight) or suffer a Mishap. Adjust the roll as following:
+       - +1 for each 1 gp you spend on material to work on the kit
+       - +1 for each additional day of work beyond the initial week
+       - -1 for each missing point of durability on either toolkit
+       - -1 for each distinct tool beyond the first when working on multi-tools (adding to or merging multi-tools is harder)
+- **Jack of all Trades**: While making a skill check with tools, you retain Skill Dices on a 4 or lower.
 
-Mishaps:
+**Mishaps**:
 
-- Your tools get nicked. The toolkit you used for the skill check lose 1 point of durability.
+- Your tools get nicked. The toolkit you used lose 1 point of durability.
 - Fatigue starts to set in. Mark off 1 inventory slot until your next full rest.
+- You cut yourself on a piece of metal or wood that sticks out. Take 1d4 damage (Roll a minor injury (d4)).
 
 **Starting Equipment**:
 

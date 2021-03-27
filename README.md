@@ -50,10 +50,9 @@ Rules
     - [ ] Dwarves
     - [ ] Halfling
   - Occupations
-    - [ ] Fighter
+    - [x] Fighter
     - [x] Magic User
-    - [ ] Cleric
-    - [ ] Specialist
+    - [x] Specialist
   - Class Templates
     - Description
     - Features

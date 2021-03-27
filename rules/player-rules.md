@@ -136,7 +136,7 @@ If you roll doubles while using skills, roll on your class's mishap table. If yo
 
 ### Magic Dices & Spellcasting
 
-Magic dices are granted by templates that allows characters to practice magic without any external help. Their usage are governed by [template features](#template-based-classes) and spell-casting.
+Magic dices are granted by templates that allows characters to practice magic without any external help. Their usage are governed by [template features](#template-based-classes) and spell-casting. See [the Magic Rules](magic/magic-rules.md) for more details.
 
 ### Notes
 
