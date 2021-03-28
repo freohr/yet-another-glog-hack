@@ -25,3 +25,30 @@
 * **Slow:** The target creature halves their movement speed, loses [dice] to their AC and has disadvantage on dexterity saving throws, and can only make one attack on their combat turn.
 
 * **Hold Person:** On a failed WIS save, one target person is paralyzed for [dice x 30] seconds. On a successful save, one limb or body part at the DM's discretion stops operating as normal.
+
+## Arcane Mage
+
+### Arcane Spells
+
+Roll 1d6 twice for your starting spells, rerolling duplicates
+
+1. **Magic Missile:** Fire [dice x 2] missiles from your hand. They may hit any target in your sight and never miss. Each does damage equal to its roll minus 1, to a minimum of 1.
+2. **Mending:**: Repair [dice] durability to an item.
+3. **Sleep:** [sum] HD of creatures fall into a magical slumber. WIS save prevents entirely.
+4. **Prestidigitation:** [Hold 1] Create visual and audio effects.
+5. **Comprehend Language:** [Hold x] You understand one extra language per [dice].
+6. **Magic Shield:** Any of the following effects
+    * [Hold x] Conjure a shimmering barrier giving you +[dice] AC. Roll any held dice when you are attacked.
+    * As a reaction, prevent [sum / 2] damage to any target within 30 ft.
+7. **Color Spray:** Target is blinded and miss attacks 50% of the time for 1d6 round. If [sum] is higher than remaining hit points, the creature is stunned for an additional round. If [sum] is double remaining hit points, stun for 1d6 rounds instead.
+8. **Wizard Sight:**  Any of the following effects. Each effect requires its own held dice.
+    * [Hold 1]: You can detect magical effects up to [dice x 30] feet away.
+    * [Hold 1]: You can see through minor illusions.
+    * [Hold 2]: You can see invisible things
+    * [Hold 2]: You can see through magical darkness
+    * [Hold 2]: You can see the true form of shapeshifters
+    * [Hold x]: You can detect the presences of malevolent beings from other worlds up to [dice x 100] feet away.
+9. **Locate Person:** You know the location of a person you have met before within if they are within [dice] hexes of you. You know their exact heading and speed.
+10. **Mage Hand:** You can manipulate objects with a spectral hand up to [dice x 30] feet away. You can lift up to [dice x 5]lbs with the hand.
+11. **Dispel Magic:** End any magical effect that uses [dice] or fewer dice. Dispel Magic can be resisted by an active magic user by comparing the effect's [sum] to the [sum] of Dispel Magic.
+12. **Mirror Image:** Create 1d4+[dice] mirror images. When attacked, randomly determine whether an image, or you, are attacked. The image disappears on a successful attack.
