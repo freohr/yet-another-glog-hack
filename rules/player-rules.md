@@ -70,7 +70,7 @@ When attempting something where the outcome is uncertain and failure has consequ
   - On a Success: You get the intended result, and the rest of the party may act on what you achieved (if they didn't act this turn yet)
   - On a Failure: you get the intended result, but this took the whole turn
 
-Note that, regardless of the roll result, making noise may attract some company!
+Note that, regardless of the roll result, making noise may attract unwanted company!
 
 #### Making Saves
 
@@ -112,8 +112,12 @@ Fighting dices are granted by templates that enhance a character ability for phy
 In addition to what the template grants, they may be spent as follow:
 
 - Precision Strike: Before rolling the attack, grants +[dice] bonus to hit
-- Power Attack: Before rolling the attack, trades -[dice] to attack for +[sum] bonus to damage
-- While using a shield, reduces incoming damage by -[sum]. This may be used to reduce damage for a close ally.
+- Power Attack: Before rolling the attack, trades -[dice] to attack for +[dice] additional wounds inflicted on hit.
+- Shield Block: When begin attacked, you can raise your shield to brace for defense.
+  - Choose one:
+    - Before rolling for defense, increase AC by [highest],
+    - After rolling for defense, increase AC by [dice].
+  - This may be used to protect a close ally.
 
 #### Combat Mishaps
 
@@ -211,7 +215,7 @@ Furthermore, as you continue to level up, you gain titles to represent acknowled
 | :---: | :----------: | :---------: | :-----------: | :--------: |
 |   7   |  Baron·ess   |    Lord     | Village Elder |  Strider   |
 |   8   |  Count·ess   |  Forgelord  |       -       |   Warden   |
-|   9   |  Marquis·e   |    Thane    |       -       |
+|   9   |  Marquis·e   |    Thane    |       -       |            |
 |  10+  | Duke/Duchess | Hammerthane |       -       | Pathfinder |
 
 ### Backup Experience
@@ -232,14 +236,14 @@ Injuries are par for the course when adventuring, but it need not be a tragedy. 
 - If the slot contained an item, you drop it at the moment you suffer the injury.
 - If you suffer a **Major Injury**, you are out of the action
 
-To roll on the **Injuries** table, roll `1d12 + the number of injuries you currently suffer from - your Constitution bonus`, then diegetically adjudicate the result to the current situation.
+To roll on the **Injuries** table, roll `1d12 + the number of injuries you currently suffer from - your Constitution bonus`, then diegetically adjudicate the result to the current situation. Some effect may ask you to roll a **Minor Injury**, in this case, replace the d12 with a d6.
 
-Injuries from 1 to 6 are considered **Minor Injuries**; they do not have lasting effects, and some effects may only require you to roll a d6 for injuries. Injuries, from 7 and higher, are **Major injuries**; PCs suffer both immediate effect, and lasting effect until the character get rest in a safe town.
+Injuries from 1 to 6 are considered **Minor Injuries**, they do not have lasting effects. Injuries, from 7 and higher, are **Major injuries**; PCs suffer both the immediate effect, and the lasting effect until the character get rest in a safe town.
 
 *Table X: Injuries & Dismemberment*
 | Die Roll |       Injury       | Immediate Effect                                                                                     | Until recovery                                                                                      |
 | :------: | :----------------: | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-|   1-2    |    Maybe a scar    | Definitely a scar. Roll a d4, on a 1, it's located where you can hide it with your clothes           | Nothing, luckily                                                                                    |
+|   1-2    |  Merely a scratch  | Definitely a scar however. Roll a d4, on a 1, it's located where you can hide it with your clothes   | Nothing, luckily                                                                                    |
 |   3-4    |     Concussion     | You cannot use Action die for the rest of the day                                                    | Nothing, yet                                                                                        |
 |   5-6    | Just a Flesh Wound | Can't use the injured part for the rest of the day                                                   | Nothing, but you came close                                                                         |
 |    7     |   Lost extremity   | Roll d6 to find out what you lost: <br/>1. Fingers (d3); 2. Hand; 3. Nose; 4. Ear; 5. Eye; 6. Looks. | Disadvantage on tasks requiring that former extremity.                                              |
@@ -248,17 +252,17 @@ Injuries from 1 to 6 are considered **Minor Injuries**; they do not have lasting
 |    10    |     Head wound     | Lose half your action dice.                                                                          | Disadvantage on all rolls                                                                           |
 |    11    |     Lost Limb      | You can't stand on your own, needing help and support to move                                        | Same as useless leg or arm, but it won't regrow. Disadvantage becomes a permanent -2 after recovery |
 |    12    |     Hemorrhage     | You are bleeding out, and need tending to in d4 turns or you will die exsanguine.                    | Your action dice count as 3 (for the total roll, not the keeping-it part) when rolled as 3+.        |
-|   13+    |       Death        | Your luck has run out, and Death comes to take its toll                                              | You aren't expected to recover from this one...                                                     |
+|   13+    |       Death        | Your luck has run out, and Death has come to take its toll                                           | You aren't expected to recover from this one...                                                     |
 
 ### Recovering from injuries
 
 #### Natural Recovery
 
-To recover from injuries, you need rest, plain and simple. For each injury, you need a number of days of rest equal to the roll value in the Injury Table; for **minor injuries**, take the higher value.
+To recover from injuries, you need rest, plain and simple. For each injury, you need a number of days of rest equal to the roll value in the Injury Table; for **minor injuries**, take the lower value (1 day, 3 days and 5 days respectively).
 
 After recovery, you regain the inventory slots incapacitated by injury.
 
-You may choose to interrupt rest if you wish to go back adventuring before full recovery, but you only heal after each rest threshold (2 days for a scar, 9 days for a disabled arm, etc.)
+You may choose to interrupt rest if you wish to go back adventuring before full recovery, but you only heal after each rest threshold (1 day for a simple scratch, 9 days for a disabled arm, etc.)
 
 Note however, than any injury you suffer leaves a mark on your character. When you recover from an injury, add a line to your character description about the newly minted scar you received.
 
