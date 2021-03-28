@@ -25,6 +25,8 @@
   - [Injuries, Dismemberment and Death](#injuries-dismemberment-and-death)
     - [Incurring Injuries](#incurring-injuries)
     - [Recovering from injuries](#recovering-from-injuries)
+      - [Natural Recovery](#natural-recovery)
+      - [Magical Recovery](#magical-recovery)
     - [A new Path](#a-new-path)
 
 ## Attributes
@@ -76,8 +78,6 @@ When trying to resist dangerous effects, you make a saving throw, or “save”.
 
 ### Additional Characteristics
 
-- __Resilience__: Your resilience is the measure of how much mental and physical nicks, bruises, and eventually harm you may take before your body refuses to go on. When you take damage, tally it up. When you reach damage taken exactly equal to your Resilience, roll on the Death & Dismemberment table. When you reach damage taken higher than your Resilience, your character is considered dying, and is allowed one last goodbye with their companions before passing on.
-  - Resilience per level is written in [Table X: Character Advancement](#leveling-up-training-with-the-masters).
 - __Armor__: Armor comes with an armor defense value. Note that value on your character sheet with its corresponding Armor bonus (always 10 less than the defense). If your PC is not wearing any armor, their armor defense is 11 and their armor bonus is +1.
 - __Inventory__: PCs have a number of item slots equal to 10 + the median of their Dexterity, Strength and Intelligence bonuses; items they carry must fit into available slots.
   - Most items take up one slot, but some take up more. Small items can be bundled together into a single slot. Ask the referee if you are unsure.
@@ -224,39 +224,50 @@ Note: Even after reaching level 6, you still count 20% of the treasure brought t
 
 ### Incurring Injuries
 
-Death is par for the course when adventuring, but it need not be a tragedy. The basics of it are:
+Injuries are par for the course when adventuring, but it need not be a tragedy. The basics are:
 
-- When your accrued damage reach your Resilience, roll on the **Dismemberment** table below.
-  
-Which means in practice:
-
-- You are out of the action. You need at least a full hour in a safe space to gather your spirits, and even additional first aid depending on the injury sustained.
+- When you take a hit, roll on the Injury table below.
 - You suffer the rolled injury, which takes out one of your inventory slots.
-  - If the slot contained an item, you drop it at the moment you suffer the injury.
-  - To ease tracking, write your injuries starting from the end of your inventory.
+- Write your injuries starting from the end of your inventory.
+- If the slot contained an item, you drop it at the moment you suffer the injury.
+- If you suffer a **Major Injury**, you are out of the action
 
-To roll on the **Dismemberment** table, roll 1d10 + the number of injuries you currently suffer from, then diegetically adjust to the current situation.
+To roll on the **Injuries** table, roll `1d12 + the number of injuries you currently suffer from - your Constitution bonus`, then diegetically adjudicate the result to the current situation.
+
+Injuries from 1 to 6 are considered **Minor Injuries**; they do not have lasting effects, and some effects may only require you to roll a d6 for injuries. Injuries, from 7 and higher, are **Major injuries**; PCs suffer both immediate effect, and lasting effect until the character get rest in a safe town.
 
 *Table X: Injuries & Dismemberment*
-|  Die  |     Injury     | Immediate Effect                                                                                     | Until recovery                                                                                      |
-| :---: | :------------: | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-|  1-2  |  Maybe a scar  | Definitely a scar. Roll a d4, on a 1, it's located where you can hide it within your clothes         | Nothing, luckily                                                                                    |
-|  3-4  |   Concussion   | You cannot use Action die for the rest of the day                                                    | Nothing, yet                                                                                        |
-|  6-7  | Lost extremity | Roll d6 to find out what you lost: <br/>1. Fingers (d3); 2. Hand; 3. Nose; 4. Ear; 5. Eye; 6. Looks. | Disadvantage on tasks requiring that former extremity.                                              |
-|   8   |  Leg Useless   | Pass out from the pain. You need an additional hour to regain consciousness                          | Can’t run. Disadvantage on agility tasks                                                            |
-|   9   |  Arm Useless   | Pass out from the pain. You need an additional hour to regain consciousness                          | Disadvantage when needing both arms or if it was the dominant hand                                  |
-|  10   |   Head wound   | Lose half your action dice.                                                                          | Disadvantage on all rolls                                                                           |
-|  11   |   Lost Limb    | You can't stand on your own, needing help and support to move                                        | Same as useless leg or arm, but it won't regrow. Disadvantage becomes a permanent -2 after recovery |
-|  12   |   Hemorrhage   | You are bleeding out, and need tending to in d4 turns or you will die exsanguine.                    | Your action dice count as 3 (for the total roll, not the keeping-it part) when rolled as 3+.        |
-|  13+  |     Death      | Your luck has run out, and Death comes to take its toll                                              | You aren't expected to recover from this one...                                                     |
+| Die Roll |       Injury       | Immediate Effect                                                                                     | Until recovery                                                                                      |
+| :------: | :----------------: | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
+|   1-2    |    Maybe a scar    | Definitely a scar. Roll a d4, on a 1, it's located where you can hide it with your clothes           | Nothing, luckily                                                                                    |
+|   3-4    |     Concussion     | You cannot use Action die for the rest of the day                                                    | Nothing, yet                                                                                        |
+|   5-6    | Just a Flesh Wound | Can't use the injured part for the rest of the day                                                   | Nothing, but you came close                                                                         |
+|    7     |   Lost extremity   | Roll d6 to find out what you lost: <br/>1. Fingers (d3); 2. Hand; 3. Nose; 4. Ear; 5. Eye; 6. Looks. | Disadvantage on tasks requiring that former extremity.                                              |
+|    8     |    Leg Useless     | Pass out from the pain. You need an additional hour to regain consciousness                          | Can’t run. Disadvantage on agility tasks                                                            |
+|    9     |    Arm Useless     | Pass out from the pain. You need an additional hour to regain consciousness                          | Disadvantage when needing both arms or if it was the dominant hand                                  |
+|    10    |     Head wound     | Lose half your action dice.                                                                          | Disadvantage on all rolls                                                                           |
+|    11    |     Lost Limb      | You can't stand on your own, needing help and support to move                                        | Same as useless leg or arm, but it won't regrow. Disadvantage becomes a permanent -2 after recovery |
+|    12    |     Hemorrhage     | You are bleeding out, and need tending to in d4 turns or you will die exsanguine.                    | Your action dice count as 3 (for the total roll, not the keeping-it part) when rolled as 3+.        |
+|   13+    |       Death        | Your luck has run out, and Death comes to take its toll                                              | You aren't expected to recover from this one...                                                     |
 
 ### Recovering from injuries
 
-To recover from injuries, you need rest, plain and simple. You need 1 cumulative week of rest for each injury you currently have to recover from them, e.g. if you currently have 3 injuries, you need 3 weeks to recover from one injury, then 2 weeks for the next, then 1 week for the last one.
+#### Natural Recovery
+
+To recover from injuries, you need rest, plain and simple. For each injury, you need a number of days of rest equal to the roll value in the Injury Table; for **minor injuries**, take the higher value.
 
 After recovery, you regain the inventory slots incapacitated by injury.
 
-You may choose to interrupt rest if you wish to go back adventuring before full recovery, but you only heal after each rest threshold (N weeks of rest for an injury when you have N injuries)
+You may choose to interrupt rest if you wish to go back adventuring before full recovery, but you only heal after each rest threshold (2 days for a scar, 9 days for a disabled arm, etc.)
+
+Note however, than any injury you suffer leaves a mark on your character. When you recover from an injury, add a line to your character description about the newly minted scar you received.
+
+#### Magical Recovery
+
+Magical healing is a godsend when dealing with adventuring injuries, still it is not omnipotent. When receiving magical healing, you can choose one:
+
+- Either remove a **minor injury** completely (you can choose to get a scar or not),
+- Or ignore the lasting effect of a **major injury**, but it still takes an inventory slot.
 
 ### A new Path
 

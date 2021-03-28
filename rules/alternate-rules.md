@@ -26,21 +26,27 @@ Add schools of magic for White Magic (Light, Radiant, Healing), No dedicated Cle
       2. a damaging spell effect
       3. a failed save against an dangerous environment effect
       4. the referee saying you take damage
+   2. You are not automatically out of combat on an injury, only for major injuries (7+)
 3. Constitution is subtracted from the injury roll, so more CON equals less serious injuries.
    1. Now, the injury roll is `d12 + # of injuries - CON`
 4. Injuries still take an Inventory slot, so more injuries equal a worse ability to carry equipment and treasure.
+5. Monsters may have up to their HD count injuries, or HD mod 5 major injuries (0-4: max 1 major, 5-9: max 2 majors, etc.). Roll d12 when a player inflict damage to define which injury is inflicted. When a player attacks to subdue, roll 2d12, keeping the lowest roll.
 
 ### Other rules impacted by this
 
 1. Combat : Overloaded Initiative Die
    1. The "Fatigue!" result instead says "All combattant in melee have -1 AC until the next turn"
-2. Twenty System Questions:
+2. Equipment: Weapons
+   1. Simple weapons are 1 injury, Martial weapons (longsword, greataxe, flamberge, warhammer) roll 2d12 keep highest for the injury.
+   2. Shields: May be splintered before the injury roll to negate an injury
+3. Twenty System Questions:
    * 2/ How are Death and Dying handled?
      * Replace with: "Damage means you roll on the Injury Table, more injuries mean higher rolls, higher rolls mean worse results for your PC, with Death at the highest result of 13+. Some results may require immediate attention or lead to Death otherwise.
    * 7/ Do I get any benefits for wearing a helmet?
       * Replace benefit for Dwarf as "Helmets can be splintered to negate an injury, before the injury roll"
-3. Classes
+4. Classes
     * Elves
       * Fey Ancestry:
         * Replace "Iron Bane" with "whenever you touch iron, roll an injury, replacing the d12 with with d4 + [templates]"
         * Replace "Oath Bound" with "You cannot lie, and whenever someone breaks their word with you, they roll an injury"
+    * 

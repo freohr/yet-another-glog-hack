@@ -27,6 +27,7 @@ This game is an OSR game, which means it comes with a set of assumption about ga
 - **Player-facing rolls**: Beside referee-only rolls (mostly procedural generation), all rolls are done by the player, including attacking and defending in combat.
 - **More templates for an adventurer**: Classes still only have 4 templates, but PCs can have up to 6 templates, which means multi-classing will happen if you survive long enough.
 - **Ancestry-as-templates** (derived from Race-as-Class): To replicate the original old school D&D games, every PC is a human, unless they take Ancestry templates, representing their belonging to a different ancestry, culture, etc.
+- **No HP**. Instead, damage is represented by injuries taking up inventory space: The more damage you take between rests, the less stuff you can carry.
 
 ## Inspirations
 
