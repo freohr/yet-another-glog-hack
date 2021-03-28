@@ -8,6 +8,7 @@ Remove the mentions of defenses, explicitly define derived stats:
 
 * Inventory is: 10 + Middle of STR/DEX/INT
 * Lifetime Henchpeople is 5 + Starting CHA
+* AC Bonus is depending on armor
 * Attacking is d20 + STR for melee >= Opponent AC, d20 + WIS for ranged >= Opponent AC
 * Defending is d20 + AC >= Opponent Attack Value
   * Note for both: All rolls are advantageous for the players, which means that if the roll equals the target value, it is successful

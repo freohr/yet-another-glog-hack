@@ -20,6 +20,13 @@ This game is an OSR game, which means it comes with a set of assumption about ga
 - Thespian roleplaying.
 - Exploring inter-personal relationships between PCs, other PCs, and/or NPCs.
 
+### What are the difference from other GLOG hacks
+
+- **Roll high**: For every kind of roll, high is better. From Knave, every skill check or save is roll >= 15; Moral and reaction is 2d10, with high means more favorable results; Overloaded Encounter Die have better result on high values; etc.
+- **Character stats are bonuses only**. Any roll is: grab the needed die, roll, add a attribute bonus, then compare the result to the threshold for the kind of action you rolled for. ([Ok, fine, it's not that different](http://goblinpunch.blogspot.com/2020/04/stat-squish-and-lawful-roll.html))
+- **Player-facing rolls**: Beside referee-only rolls (mostly procedural generation), all rolls are done by the player, including attacking and defending in combat.
+- **More templates for an adventurer**: Classes still only have 4 templates, but PCs can have up to 6 templates, which means multi-classing will happen if you survive long enough.
+- **Ancestry-as-templates** (derived from Race-as-Class): To replicate the original old school D&D games, every PC is a human, unless they take Ancestry templates, representing their belonging to a different ancestry, culture, etc.
 
 ## Inspirations
 
