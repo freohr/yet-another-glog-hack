@@ -6,7 +6,7 @@
     - [Humans](#humans)
     - [Elves](#elves)
     - [Dwarves](#dwarves)
-    - [Halfling](#halfling)
+    - [Halflings](#halflings)
   - [Occupation Templates](#occupation-templates)
     - [Fighter](#fighter)
     - [Magic-User](#magic-user)
@@ -59,34 +59,25 @@ Previous Profession (before your adventuring life), and a starting item:
 
 ### Elves
 
+[Inspired by Skerples' Elves](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html)
+
+You may have been born human, but having attracted the interest of an High Elf, you didn't stay one for long. Take a human body and fix the mistakes. Organize teeth. Fix eyesight. Improve hearing. Improve skin. Build in a resistance to disease, age, and fear. Clean up the chaos of the mind. You are an improved human. You are better than them because you have been designed to be better than them.
+
 As an Elf, you gain an Elf die with every template, which may be used either as Fighting Dice or as Magic Dice
 
 |Template|Action Die|Benefit|
 |:-:|:-:|:--|
-|A|+1 E(F/M)|Fey Ancestry(Iron Bane, Oath Bound), Fey Sight|
-|B|+1 E(F/M)||
-|C|+1 E(F/M)||
-|D|+1 E(F/M)||
+|A|+1 E(F/M)|Fey Sculpted (Iron Bane, Oath Bound, Elven Magic), Fey Sight|
+|B|+1 E(F/M)|+1 Spell (d8)|
+|C|+1 E(F/M)|+1 Spell (d10)|
+|D|+1 E(F/M)|High Elven Magic|
 
-- **Fey Ancestry**: You deepen your connection to the Fey Realms.
+- **Fey Sculpted**: You deepen your connection to the Fey Realms. You cannot die of age.
   - *Iron Bane*: You take 1 point of damage whenever you touch iron for each Elf Die you possess.
   - *Oath Bound*: You cannot lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take [X]d6 mental damage.
+  - **Elven Magic**: You are a [spellcaster](magic/magic-rules.md), using the Elven school of Magic. You start with the cantrips, but no full spell until the next template.
 - **Fey Sight**: You can see invisible things. Such as spells and emotions. You also see people who frequently lie. They look less... real, then everything else. Cannot be turned off yet it can be ignored.
-
-*
-
-Mishaps:
-
--
--
-
-Dooms:
-
-*
-*
-- You loose your connection to the Fey Realms, and with it your ageless immortality. You now age as a human, and if you are already older than the high limit for human age, you only have 1d10 years remaining to live.
-
-Starting Equipment:
+- **High Elven Magic**: Choose 2 additional spells, or create a spell from scratch
 
 Previous Profession (before your adventuring life), and a starting item:
 
@@ -128,7 +119,7 @@ Previous Profession (before your adventuring life), and a starting item:
 5. Brewer: A reinforced tankard, and a bottle of alcohol (your choice)
 6. Mason: A weighted string (to check verticality) and a math compass
 
-### Halfling
+### Halflings
 
 |Template|Action Die|Benefit|
 |:-:|:-:|:--|
