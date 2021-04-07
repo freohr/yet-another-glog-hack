@@ -30,12 +30,12 @@ Each class template grants specialized abilities, as well as one [Action Die](#A
 
 As a Human, you gain a Human die with every template, which may be used either as a Fighting die or as a Skill die
 
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 H(F/S)||
-|B|+1 H(F/S)||
-|C|+1 H(F/S)||
-|D|+1 H(F/S)||
+| Template | Action Die | Benefit |
+| :------: | :--------: | :------ |
+|    A     | +1 H(F/S)  |         |
+|    B     | +1 H(F/S)  |         |
+|    C     | +1 H(F/S)  |         |
+|    D     | +1 H(F/S)  |         |
 
 Features:
 
@@ -65,19 +65,20 @@ You may have been born human, but having attracted the interest of an High Elf, 
 
 As an Elf, you gain an Elf die with every template, which may be used either as Fighting Dice or as Magic Dice
 
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 E(F/M)|Fey Sculpted (Iron Bane, Oath Bound, Elven Magic), Fey Sight|
-|B|+1 E(F/M)|+1 Spell (d8)|
-|C|+1 E(F/M)|+1 Spell (d10)|
-|D|+1 E(F/M)|High Elven Magic|
+| Template | Action Die | Benefit                                              |
+| :------: | :--------: | :--------------------------------------------------- |
+|    A     | +1 E(F/M)  | Fey Sculpted (Iron Bane, Elven Magic, +1 spell (d6)) |
+|    B     | +1 E(F/M)  | Oath Bound, Fey Sight, +1 Spell (d8)                 |
+|    C     | +1 E(F/M)  | Elven Antlers, +1 Spell (d10)                        |
+|    D     | +1 E(F/M)  | High Elven Magic                                     |
 
 - **Fey Sculpted**: You deepen your connection to the Fey Realms. You cannot die of age.
   - *Iron Bane*: You take 1 point of damage whenever you touch iron for each Elf Die you possess.
-  - *Oath Bound*: You cannot lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take [X]d6 mental damage.
-  - **Elven Magic**: You are a [spellcaster](magic/magic-rules.md), using the Elven school of Magic. You start with the cantrips, but no full spell until the next template.
+  - *Elven Magic*: You are a [spellcaster](magic/magic-rules.md), using the [Elven school of Magic](magic/magic-rules.md#). You start with one spell, which you get by rolling a d6 on the Elven Spell table.
+- **Oath Bound**: You cannot lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take [X]d6 mental damage.
 - **Fey Sight**: You can see invisible things. Such as spells and emotions. You also see people who frequently lie. They look less... real, then everything else. Cannot be turned off yet it can be ignored.
-- **High Elven Magic**: Choose 2 additional spells, or create a spell from scratch
+- **Elven Antlers**: You grow antlers on your forehead; describe their appearance (as a deer, either stag or doe, a moose, or any kind of cervidae). Your elven nature is now plain to see: Gain a +1 bonus to reactions when interacting with fey creatures, druids and woodland beings, but you give a -1 malus to reaction to your group when in presence of city dwellers (Humans, Dwarves, etc.).
+- **High Elven Magic**: Choose 2 additional spells for your spell school, or create a spell from scratch.
 
 Previous Profession (before your adventuring life), and a starting item:
 
@@ -90,12 +91,12 @@ Previous Profession (before your adventuring life), and a starting item:
 
 ### Dwarves
 
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 F||
-|B|+1 F||
-|C|+1 F||
-|D|+1 F||
+| Template | Action Die | Benefit |
+| :------: | :--------: | :------ |
+|    A     |    +1 F    |         |
+|    B     |    +1 F    |         |
+|    C     |    +1 F    |         |
+|    D     |    +1 F    |         |
 
 -
 -
@@ -121,12 +122,12 @@ Previous Profession (before your adventuring life), and a starting item:
 
 ### Halflings
 
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 S||
-|B|+1 S||
-|C|+1 S||
-|D|+1 S||
+| Template | Action Die | Benefit |
+| :------: | :--------: | :------ |
+|    A     |    +1 S    |         |
+|    B     |    +1 S    |         |
+|    C     |    +1 S    |         |
+|    D     |    +1 S    |         |
 
 *
 *
@@ -153,12 +154,12 @@ Previous Profession (before your adventuring life), and a starting item:
 
 In this rule-set, Fighters are more about becoming heroes of legends, than about pure combat prowess. This class will give you means to inspire and recruit hirelings, and create your legend with your mighty deeds.
 
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 F|Mighty Deeds of Arm|
-|B|+1 F|Start of a Legacy, Fray Attacks|
-|C|+1 F|Leader of Men|
-|D|+1 F|A Legend is Born|
+| Template | Action Die | Benefit                         |
+| :------: | :--------: | :------------------------------ |
+|    A     |    +1 F    | Mighty Deeds of Arm             |
+|    B     |    +1 F    | Start of a Legacy, Fray Attacks |
+|    C     |    +1 F    | Leader of Men                   |
+|    D     |    +1 F    | A Legend is Born                |
 
 Benefits:
 
@@ -194,12 +195,12 @@ Benefits:
 
 [Adjusted from Skerples' Wizard](https://coinsandscrolls.blogspot.com/2017/07/osr-class-wizards.html)
 
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 M|Magic School, +2 Known Spells (d6), Spell Breeding|
-|B|+1 M|+1 Known Spell (d8), Book Casting|
-|C|+1 M|+1 Known Spell (d10), Friendly Spell|
-|D|+1 M|Master of Magics|
+| Template | Action Die | Benefit                                            |
+| :------: | :--------: | :------------------------------------------------- |
+|    A     |    +1 M    | Magic School, +2 Known Spells (d6), Spell Breeding |
+|    B     |    +1 M    | +1 Known Spell (d8), Book Casting                  |
+|    C     |    +1 M    | +1 Known Spell (d10), Friendly Spell               |
+|    D     |    +1 M    | Master of Magics                                   |
 
 - **Spells**
   - When you first gain a Wizard template, you must choose a school from the list below. You cannot change schools later. [You are a spellcaster](magic/magic-rules.md).
@@ -257,12 +258,12 @@ A specialist is a master of tools, always a kit on hand, able to make do with ju
 
 As a specialist, you gain a Skill die for each template (noted in the table below), and you have space for your tools (as noted in the **I have that somewhere...** feature)
 
-|Template|Action Die|Benefit|
-|:-:|:-:|:--|
-|A|+1 S|Never Unprepared, I have that somewhere...|
-|B|+1 S|In a pinch|
-|C|+1 S|Tool Tinkering|
-|D|+1 S|Jack of all Trades|
+| Template | Action Die | Benefit                                    |
+| :------: | :--------: | :----------------------------------------- |
+|    A     |    +1 S    | Never Unprepared, I have that somewhere... |
+|    B     |    +1 S    | In a pinch                                 |
+|    C     |    +1 S    | Tool Tinkering                             |
+|    D     |    +1 S    | Jack of all Trades                         |
 
 Features:
 
