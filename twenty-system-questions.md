@@ -9,7 +9,7 @@
 3. What about raising the dead?
     * If you find the needed long lost rituals, you can certainly try.
 4. How are replacement PCs handled?
-    * Players can take over Henchpeople, or roll new characters. Backup experience (dedicated extra xp from treasure) allows quick lvl up for new PCs.
+    * Players can take over Henchfolks, or roll new characters. Backup experience (dedicated extra xp from treasure) allows quick lvl up for new PCs.
 5. Initiative: individual, group, or something else?
     * Derivative of Group initiative: the group with initiative declares action after everyone else, actions are resolved simultaneously
 6. Are there critical hits and fumbles? How do they work?
@@ -34,7 +34,7 @@
 15. How are traps located? Description, dice rolling, or some combination?
     * Describing if and how you search works, even when not, traps only trigger at 2-in-6. Disarming traps requires description and rolls.
 16. Are retainers encouraged and how does morale work?
-    * Henchpeople are strongly recommended, as they can take over dead/retired PCs. Hirelings are also recommended, as they can carry stuff, bring additional arms to fight, offer expertise, etc.
+    * Henchfolks are strongly recommended, as they can take over dead/retired PCs. Hirelings are also recommended, as they can carry stuff, bring additional arms to fight, offer expertise, etc.
 17. How do I identify magic items?
     * Magic Users can perceive an item as magic at first glance, full identification requires downtime, experimentation always work (few items are cursed, and those are usually sufficiently described)
 18. Can I buy magic items? Oh, come on: how about just potions?

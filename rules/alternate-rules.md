@@ -7,7 +7,7 @@ But really, rules to be put in the final ruleset, but not yet finished
 Remove the mentions of defenses, explicitly define derived stats:
 
 * Inventory is: 10 + Middle of STR/DEX/INT
-* Lifetime Henchpeople is 5 + Starting CHA
+* Lifetime Henchfolks is 5 + Starting CHA
 * AC Bonus is depending on armor
 * Attacking is d20 + STR for melee >= Opponent AC, d20 + WIS for ranged >= Opponent AC
 * Defending is d20 + AC >= Opponent Attack Value

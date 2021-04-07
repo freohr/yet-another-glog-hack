@@ -173,7 +173,7 @@ Benefits:
 
 **Mishaps**:
 
-- You trip over your feet, or suffer any other action unsightly of your prestige. The next morale check for your hirelings and henchpeople is rolled at a +2 malus.
+- You trip over your feet, or suffer any other action unsightly of your prestige. The next morale check for your hirelings and henchfolks is rolled at a +2 malus.
 - Bad movement results in dents to your equipment. If you were attacking, your weapon lose 1 durability; if you were defending, your armor or your shield lose 1 durability.
 
 **Starting Equipment**:

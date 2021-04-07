@@ -48,7 +48,7 @@ Rules
 - [Spending Money](rules/equipment-wealth.md)
   - [x] Cost of Living
   - [ ] Items and Equipment
-  - [ ] Hirelings and Henchpeople
+  - [ ] Hirelings and Henchfolks
   - [ ] Strongholds and Influence
   - [ ] Spell Research and Magic Item Creation
 - [Classes](rules/class-templates.md)

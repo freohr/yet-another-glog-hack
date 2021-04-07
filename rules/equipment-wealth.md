@@ -14,8 +14,8 @@
       - [Armors](#armors)
       - [Adventuring Gear](#adventuring-gear)
     - [Magic Items](#magic-items)
-  - [Henchpersons and Hirelings](#henchpersons-and-hirelings)
-    - [Henchpersons](#henchpersons)
+  - [Henchfolks and Hirelings](#henchfolks-and-hirelings)
+    - [Henchfolks](#henchfolks)
     - [Hirelings](#hirelings)
   - [Spell Research](#spell-research)
   - [Magic Item Creation](#magic-item-creation)
@@ -35,7 +35,7 @@ Day-to-day expenses are aggregated in a weekly paid cost-of-living. Those expens
 | Impoverished |    5 sp     | Covers only the bare minimum of food and a mostly-dry squat to sleep in.                                                                                  | -2 to max Resilience, and you must make a CON Save each morning to benefit from full rest. If you fail, you only recover 1 HP                                                                                                                       |
 |    Common    |    20 sp    | Adequate food and a shabby private inn room.                                                                                                              | No penalties or benefits                                                                                                                                                                                                                            |
 |     Rich     |   200 sp    | Includes a rented town-house, a small staff of house servants, and social entree into high society circles that are forgiving of the nouveau rich         | +2 to max Resilience due to good conditions of living                                                                                                                                                                                               |
-|  Bourgeois   |  1,000 sp   | Provides the very best the community can offer in fine lodging, luxuriant food, sycophantic servants, and the provisional friendship of useful parasites. | As Rich, and You get a personal Butler (as an additional Henchperson) who can, in addition to its usual skills, once per game session, be asked a favor and will perform it, provided it is not more than mildly humiliating, dangerous or illegal. |
+|  Bourgeois   |  1,000 sp   | Provides the very best the community can offer in fine lodging, luxuriant food, sycophantic servants, and the provisional friendship of useful parasites. | As Rich, and You get a personal Butler (as an additional Henchfolk) who can, in addition to its usual skills, once per game session, be asked a favor and will perform it, provided it is not more than mildly humiliating, dangerous or illegal. |
 
 ## Equipment
 
@@ -85,17 +85,17 @@ Most equipment has 3 durability points. Rough use may damage the item, removing 
 
 Magic items cannot be bought, they can only be found (usually in treasure troves), received (as a reward, a gift or a bribe) or created (taking up precious time and resources). They are indestructible, barring some specific ritual designed to destroy them.
 
-## Henchpersons and Hirelings
+## Henchfolks and Hirelings
 
-There is a distinction between a Henchperson and a Hireling. Hireling are simply followers, paid to do a specific job for the character of the party, while Henchperson are lifelong companions, with their own goals and motivations.
+There is a distinction between a Henchfolk and a Hireling. Hireling are simply followers, paid to do a specific job for the character of the party, while Henchfolk are lifelong companions, with their own goals and motivations.
 
-### Henchpersons
+### Henchfolks
 
-As noted, Henchperson are actually lifelong companions, and as such, a PC has a lifetime henchperson limit of half its starting Charisma defense (rounded down), which need to be noted down during character creation. During adventures, each PC may only be accompanied by 1 henchperson, but they can change which companion they wish to adventure with while in a safe town (most likely in a town where that companion is currently residing).
+As noted, Henchfolk are actually lifelong companions, and as such, a PC has a lifetime henchfolk limit of half its starting Charisma defense (rounded down), which need to be noted down during character creation. During adventures, each PC may only be accompanied by 1 henchfolk, but they can change which companion they wish to adventure with while in a safe town (most likely in a town where that companion is currently residing).
 
-Henchpersons are NPCs with class templates, or at least a general archetype (Fighter, Magic User, etc.), but are limited in level to half the current level of the PC they're related to. They are willing to risk their lives to protect their PC companion, but are not single minded, and may still make Morale check if the situation proves dire.
+Henchfolks are NPCs with class templates, or at least a general archetype (Fighter, Magic User, etc.), but are limited in level to half the current level of the PC they're related to. They are willing to risk their lives to protect their PC companion, but are not single minded, and may still make Morale check if the situation proves dire.
 
-When a PC dies, the player may freely opt to "promote" a current henchperson as their new PC, and continue adventuring to avenge, mourn or pursue the legacy of their fallen comrade (or previous character at least). When this happen, the referee gives the player a character sheet (which may be a simplified PC sheet), for the remainder of the adventure, and as the adventure is concluded, the player may spend the same downtime as a level up to "retrain", or reorganize, their new PC class templates to suit their needs or wants.
+When a PC dies, the player may freely opt to "promote" a current henchfolk as their new PC, and continue adventuring to avenge, mourn or pursue the legacy of their fallen comrade (or previous character at least). When this happen, the referee gives the player a character sheet (which may be a simplified PC sheet), for the remainder of the adventure, and as the adventure is concluded, the player may spend the same downtime as a level up to "retrain", or reorganize, their new PC class templates to suit their needs or wants.
 
 As a suggestion to players, do not hesitate to listen to your companions tales, as their requests may provide a good source of adventure, and even open new opportunities. Who knows what can happen if the castaway daughter of a baron inherits her father's position?
 

@@ -21,7 +21,7 @@ Your stats are **Strength**, **Dexterity**, **Constitution**, **Intelligence**, 
 
 You may, once, switch two of your stats if you wish for your character to have a specific area of proficiency: [See Attributes description in the main Rules](./PlayerRules.md#using-attributes).
 
-After that, note down your [derived stats](./PlayerRules.md#Additional-Characteristics): Resilience, Lifetime number of Henchpeople, Max Inventory Size.
+After that, note down your [derived stats](./PlayerRules.md#Additional-Characteristics): Resilience, Lifetime number of Henchfolks, Max Inventory Size.
 
 ## 2. Choose (or roll) your first Class Template
 
