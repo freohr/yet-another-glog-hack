@@ -2,13 +2,18 @@
 
 ## Goals: What the intended style of play is
 
-This ruleset intends to create a specific kind of gameplay at the table: player-driven, campaign-length, low-heroic adventuring in an Points-of-Light fantasy open-world sandbox.
+This ruleset intends to create a specific kind of gameplay at the table: player-driven, campaign-length, low-heroic adventuring in a Points-of-Light fantasy open-world sandbox.
 
 Let's break down what each part of this means :
 
 * **Player-driven**
-    1. There is no pre-planned narrative, expected story, or plots coming from the Referee/DM
-    2. Players need to have goals of their own, and can and will change them, fulfill them, abandon them, and discover other goals during the campaign.
+    1. As opposed to GM-driven
+       1. There is no pre-planned narrative, expected story, or plots of any kind coming from the Referee/DM
+       2. Players need to have goals of their own, and can and will change them, fulfill them, abandon them, and discover other goals during the campaign.
+       3. The Referee is only here to be an neutral arbiter of the rules and the environment, not a facilitator of the Narrative.
+    2. As opposed to Character-driven
+       1. This game is intended to be played as player skill against a verisimilar, power-unbalanced but fair world, represented through the Referee.
+       2. Character Personal Arcs, character motivations, etc. are not the focus of the campaign, i.e. "This is what my character would do", be it thought reasonably or said defensively, is a mindset to be avoided in the kind of gameplay this game wants to provide.
 * **Campaign-length**:
     1. A game supported by this ruleset is intended to take place over multiple sessions, during which PCs will interact with different parts of the world, and evolve according to the will and intents of the Players.
 * **low-heroic**:
@@ -33,12 +38,13 @@ Let's break down what each part of this means :
     1. There is no dedicated adventuring site: Everything is the adventuring region. Players must decide among themselves where they want to go adventuring.
     2. Travel is explicit, risky, and takes time. PCs can expect to stumble onto unexpected encounters and sites while travelling.
     3. Any kind of player action takes time, and the world adjust to passing time.
+    4. The world simply is: It is not intended to be balanced against the player, merely against itself (e.g. Dragons are dangerous, may be encountered as early as the first ever adventure, and hoard a lot of treasure in their lairs)
 
 ## Methods: How the intended style of play is created
 
 ### Rules
 
-The rules are the foundation on which player actions are adjudicated by the referee. They are not covering everything a player and/or PC can do, and are not intended to be.
+The rules serve as as a mechanical framing of the power of the characters (by explicitly covering restrictions) and as a foundation on which the players' reasonable actions are adjudicated by the referee. They are not covering everything a player and/or PC can do, and are not intended to be.
 
 #### Rules as Player Tools
 
@@ -46,7 +52,7 @@ Rules about character usage are directly aimed at players, for them to build the
 
 #### Rules as Referee Tools
 
-Those rules are for the referee to help them adjudicate the players' action.
+Those rules are for the referee to help them adjudicate the players' action: How to handle Reactions from NPCs, how to handle Morale, the standard difficulty for a PC skill check or save, etc.
 
 #### Rules as Player Restrictions
 
@@ -70,7 +76,7 @@ PCs can advance in two ways:
 1. **Diegetically**, by finding new gear, new allies, more knowledge: This is a mostly horizontal progression, widening the breadth of tools that the player can use, but it may also sometimes be vertical, by finding some specific magic items that grant more power (A sword that deals more vicious injuries, a cursed amulet that grants additional Magic Dice).
 2. **Mechanically**, primarily by levelling up, granting more class features, more action dice: This progression is both vertical (you automatically get more Action Dice and increased Attributes) and horizontal (More class features facilitating the use of other rules: A bonus to reaction for your hirelings, a way to create new spells, more inventory space for your tools). Mechanical progress may also happen outside of levelling up for Magic Users, as they may find new spells while adventuring, thus increasing their magical palette of spells.
 
-**Diegetic advancement** is the result of players interacting with the world, and this is mostly restricted by the other part of the rules (Other rule restrictions, Play Procedures). However, **mechanical advancement** is governed by a set of rules, that dictates how you gain XP, how much XP you need, what you need to do to gain that advancement (training with a master), as the benefits are more set in stone, and "guaranteed" by the ruleset.
+**Diegetic advancement** is the result of players interacting with the world, and this is mostly restricted by the other part of the rules (Reactions from NPCs, Encumbrance, Play Procedures, etc.). However, **mechanical advancement** is governed by a set of rules, that dictates how you gain XP, how much XP you need, what you need to do to gain that advancement (training with a master), as the benefits are more set in stone, and "guaranteed" by the ruleset.
 
 ##### How to handle injuries and death
 
