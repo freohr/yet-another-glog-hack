@@ -53,19 +53,13 @@ Rules
   - [ ] Spell Research and Magic Item Creation
 - [Classes](rules/class-templates.md)
   - Ancestry
-    - [ ] Humans
-    - [ ] Elves
-    - [ ] Dwarves
+    - [x] Elves
+    - [x] Dwarves
     - [ ] Halfling
   - Occupations
     - [x] Fighter
     - [x] Magic User
     - [x] Specialist
-  - Class Templates
-    - Description
-    - Features
-    - Mishaps
-    - Dooms (If using magic dice)
 - [Procedures](rules/turn-based-procedures.md)
   - [x] Overloaded Encounter Die
   - [x] Combat

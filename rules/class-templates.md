@@ -3,7 +3,6 @@
 - [Class Templates](#class-templates)
   - [Introduction](#introduction)
   - [Ancestry Templates](#ancestry-templates)
-    - [Humans](#humans)
     - [Elves](#elves)
     - [Dwarves](#dwarves)
     - [Halflings](#halflings)
@@ -26,42 +25,11 @@ Each class template grants specialized abilities, as well as one [Action Die](#A
 
 ## Ancestry Templates
 
-### Humans
-
-As a Human, you gain a Human die with every template, which may be used either as a Fighting die or as a Skill die
-
-| Template | Action Die | Benefit |
-| :------: | :--------: | :------ |
-|    A     | +1 H(F/S)  |         |
-|    B     | +1 H(F/S)  |         |
-|    C     | +1 H(F/S)  |         |
-|    D     | +1 H(F/S)  |         |
-
-Features:
-
-*
-*
-
-**Mishaps**:
-
--
-
-**Starting Equipment**:
-
-Previous Profession (before your adventuring life), and a starting item:
-
-1. City Guard: A spear and a lantern (with 1 unit of lamp oil)
-2. Exile: Nothing, but you get lost in the wilderness half as much as other adventurers
-3. Noble: An expensive fur cloak and a signet ring
-4. Merchant: a set of scales and a small abacus
-5. Farmer/Shepherd (choose one): A wooden pitchfork and a sac of grains/A crook, and a leather sling (with "d6" stones)
-6. Pilgrim: A set of prayer beads and walking stick
-
 ### Elves
 
 [Inspired by Skerples' Elves](https://coinsandscrolls.blogspot.com/2017/05/osr-elves-and-elf-wizards.html)
 
-You may have been born human, but having attracted the interest of an High Elf, you didn't stay one for long. Take a human body and fix the mistakes. Organize teeth. Fix eyesight. Improve hearing. Improve skin. Build in a resistance to disease, age, and fear. Clean up the chaos of the mind. You are an improved human. You are better than them because you have been designed to be better than them.
+You may have been born human, but having attracted the interest of a Fey, you didn't stay one for long. Take a human body and fix the mistakes. Organize teeth. Fix eyesight. Improve hearing. Improve skin. Build in a resistance to disease, age, and fear. Clean up the chaos of the mind. You are an improved human. You are better than them because you have been designed to be better than them.
 
 As an Elf, you gain an Elf die with every template, which may be used either as Fighting Dice or as Magic Dice
 
@@ -70,41 +38,46 @@ As an Elf, you gain an Elf die with every template, which may be used either as 
 |    A     | +1 E(F/M)  | Fey Sculpted (Iron Bane, Elven Magic, +1 spell (d6)) |
 |    B     | +1 E(F/M)  | Oath Bound, Fey Sight, +1 Spell (d8)                 |
 |    C     | +1 E(F/M)  | Elven Antlers, +1 Spell (d10)                        |
-|    D     | +1 E(F/M)  | High Elven Magic                                     |
+|    D     | +1 E(F/M)  | Fey Magic                                            |
 
 - **Fey Sculpted**: You deepen your connection to the Fey Realms. You cannot die of age.
-  - *Iron Bane*: You take 1 point of damage whenever you touch iron for each Elf Die you possess.
+  - *Iron Bane*: You roll a _Minor Wound + [templates]_ whenever you touch iron.
   - *Elven Magic*: You are a [spellcaster](magic/magic-rules.md), using the [Elven school of Magic](magic/magic-rules.md#). You start with one spell, which you get by rolling a d6 on the Elven Spell table.
-- **Oath Bound**: You cannot lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take [X]d6 mental damage.
+- **Oath Bound**: You can no longer lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take a _Major Wound + [X]_.
 - **Fey Sight**: You can see invisible things. Such as spells and emotions. You also see people who frequently lie. They look less... real, then everything else. Cannot be turned off yet it can be ignored.
-- **Elven Antlers**: You grow antlers on your forehead; describe their appearance (as a deer, either stag or doe, a moose, or any kind of cervidae). Your elven nature is now plain to see: Gain a +1 bonus to reactions when interacting with fey creatures, druids and woodland beings, but you give a -1 malus to reaction to your group when in presence of city dwellers (Humans, Dwarves, etc.).
-- **High Elven Magic**: Choose 2 additional spells for your spell school, or create a spell from scratch.
+- **Elven Antlers**: You grow antlers on your forehead; describe their appearance (as a deer, either stag or doe, a moose, or any kind of cervidae). Your elven nature is now plain to see: Gain a +1 bonus to reactions when interacting with fey creatures, druids and woodland beings, but you give a -1 malus to reaction to your group when in presence of city and mountains dwellers (Humans, Dwarves, etc.).
+- **Fey Magic**: Choose 2 additional spells from the known elven spells, or create a spell from scratch.
 
 Previous Profession (before your adventuring life), and a starting item:
 
 1. Herbalist: A pair of scissors, and a mortar and pestle
 2. Forest Warden: A longbow (with "d6" arrows) and a keen sense of direction
 3. Storyteller: a nice scarf, and a knowledge of legends and stories of yore
-4. Myconid Farmer: a wicker basket full of edible mushrooms (3 units worth)
+4. Myconid Farmer: a wicker basket full of edible mushrooms (3 rations worth)
 5. Emissary: A embroidered cape, and a silver signet ring
 6. Alchemist: A vial of acid, and d4 empty glass vials
 
 ### Dwarves
 
-| Template | Action Die | Benefit |
-| :------: | :--------: | :------ |
-|    A     |    +1 F    |         |
-|    B     |    +1 F    |         |
-|    C     |    +1 F    |         |
-|    D     |    +1 F    |         |
+Dwarves are golems. Free-willed, sapient golems, created by other sapient golems. Chiseled from stone, eyes inlaid with jewels, the essence of the Law carved and hammered into their bodies with holy blows. Dwarves are born with the knowledge of enchantment and golemancy, arts which humans labor whole lifetimes to learn. They must know them, for that is the only way to create more of their kind.
 
--
--
+Of course, that is only the beginning. But let's leave a little to be revealed.
 
-Mishaps:
+As a Dwarf, you gain a Dwarf die with every template, which may be used either as a Fighting Die or a Skill die
 
--
--
+| Template | Action Die | Benefit               |
+| :------: | :--------: | :-------------------- |
+|    A     | +1 D(F/S)  | Born of Stone         |
+|    B     | +1 D(F/S)  | Golemancer            |
+|    C     | +1 D(F/S)  | Specialized Golemancy |
+|    D     | +1 D(F/S)  | Master Golemancer     |
+
+- **Born of Stone**: As you have been created by you peers, you can be remade by your peers. If you were to die, and your remains were brought to a Dwarven Hold, you can be remade in a week, plus a week for each Stone Scar you already bear. However, as this task is more difficult than creating a Dwarf from scratch, you gain a Stone Scar as a permanent wound.
+- **Golemancer**: You have begun learning the ancient art of Dwarven Golemancy. You can [reserve] Dwarf Dice to create a golem Hireling, starting at `d4` with a single Die, and increasing up the hireling die chain for each additional Die reserved. The golem creation processus take one day per [reserved] die, and you cannot have more than 1 golem Hireling at the same time.
+- **Specialized Golemancy**: When creating a golem Hireling, you can freely choose a specialty for it. This includes the possibility of creating a Magic User Golem, provided you create the Golem with the help of a Magic User of the school you want your golem to specialize in.
+- **Master Golemancer**:
+  - As your learning of Golemancy reaches its peak, you are now able to infuse your golem with Dwarfhood. To create a Dwarf, you need to create a Golem with 4 [reserved] Dwarven die, then go on adventures, and spend your XP not on your own learning, but on you Golem to mold it as a Dwarf. Note however, that this process becomes more complex for each Dwarf you give rise to, requiring more XP: Track the XP you infuse your golem with as you would your own, and as long as the golem you're currently rising is not destroyed during adventures, you can mold it as a Dwarf each time you pass the XP threshold for a new level (i.e. as you track Golem XP, you can create a dwarf at the level 1 threshold, then at the level 2 threshold, etc.).
+  - Additionally, when you assist in the reconstruction of a fellow Dwarf, reduce the needed time by half.
 
 Starting Equipment:
 
