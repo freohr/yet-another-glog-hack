@@ -25,7 +25,7 @@ Those agendas can also be said as those 10 aphorisms ([from a now defunct G+ thr
     * Be proactive, Create your own goals.
 7. If you find yourself in a fair fight, your tactics suck.
     * The rules and the referee are not here to advantage you, they are neutral arbiters. Create your own advantage.
-    * Regarding Combat: Combat is a tool, but it is a blade without a handle. It can be very powerful when correctly controlled, but will cut you deep if gone out of hand.
+    * Regarding Combat: Combat is a tool, but it is a blade without a handle. It can be very powerful when correctly controlled, but will cut deep if gone out of hand.
 8. The answer is not on your character sheet.
     * Your sheet may give you tools, but solutions can only come from you.
 9. Things are swingy.

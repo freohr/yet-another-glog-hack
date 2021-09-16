@@ -2,10 +2,13 @@
 
 ## Goals: What the intended style of play is
 
-This ruleset intends to create a specific kind of gameplay at the table: player-driven, campaign-length, low-heroic adventuring in a Points-of-Light fantasy open-world sandbox.
+This ruleset intends to create a specific kind of gameplay at the table: cooperative player-driven, campaign-length, low-heroic adventuring in a Points-of-Light fantasy open-world sandbox.
 
 Let's break down what each part of this means :
 
+* **Cooperative**
+    1. Characters are expected to work together to go on adventures. They may still have personal goals (and players are encouraged to create some for their characters), but should those force a character to work against or without the party, the character is then retired (either temporarily until the goal is fulfilled, or permanently, joining the NPC cast of the World), and the player should create a new character which will join the party instead.
+    2. As such, this will usually lead into players having multiple characters adventuring in turn: This is a feature of this style of play, and should be embraced by all around the table.
 * **Player-driven**
     1. As opposed to GM-driven
        1. There is no pre-planned narrative, expected story, or plots of any kind coming from the Referee/DM
@@ -16,13 +19,14 @@ Let's break down what each part of this means :
        2. Character Personal Arcs, character motivations, etc. are not the focus of the campaign, i.e. "This is what my character would do", be it thought reasonably or said defensively, is a mindset to be avoided in the kind of gameplay this game wants to provide.
 * **Campaign-length**:
     1. A game supported by this ruleset is intended to take place over multiple sessions, during which PCs will interact with different parts of the world, and evolve according to the will and intents of the Players.
+    2. Domain rules for high level play, even required to advance in level after finishing template training
 * **low-heroic**:
     1. As opposed to Heroic (larger than life characters expected to succeed) and Super-Heroic (Characters beyond human expectation dealing with extraordinary situations)
-    2. PCs start a bit more competent than the norm (Fighters know what to do with a sword to hurt others, Magic-Users can use 1 arcane spell per day and know how to research magic, Specialists know which tools are useful for adventure and how to use them), but are still mortal and severely disadvantaged when adventuring alone.
+    2. PCs start a bit more competent than the norm (Fighters know how to hurt other without being hit, Magic-Users can use 1 arcane spell per day and know how to research magic, Specialists know which tools are useful for adventure and how to use them), but are still mortal and severely disadvantaged when adventuring alone.
     3. They become Heroes to the level of Aragorn (his whole character arc from Ranger to King of Gondor is actually a good representation of the expected path for PCs, disregarding the fact that he is "supposed" to be king as the lost heir) or Conan (from Barbarian to King) over the course of the entire campaign.
 * **Adventuring**:
-    1. The primary kind of actual gameplay at the table will be PCs interacting with the "Non-Civilized" part of the world in order to gain the means of accomplishing their goals.
-    2. Exploring characters personalities and psyche are not a part of the play, and would be at best a side-effect of the adventuring.
+    1. The primary kind of actual gameplay at the table will be PCs interacting with the "Non-Civilized" part of the world in order to gain the means/wealth needed to accomplish their goals.
+    2. Exploring characters personalities and psyche and relationships are not a part of the play, and would be at best a side-effect of the adventuring.
 * **Points of Light**:
     1. There is no overarching current, working empire/civilization that rules over the land and that players can interact with either in the frozen far north or the equatorial islands.
        1. Note that this also applies for several concurrent "big" civilizations: In the expected setting, there is no civilization that controls lands at the scale of a modern country (ok, maybe at the scale of Andorra or the Vatican, i.e. big fortified cities disguised as countries).
