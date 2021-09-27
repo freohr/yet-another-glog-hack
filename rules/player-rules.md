@@ -233,7 +233,7 @@ Injuries are par for the course when adventuring, but it need not be a tragedy. 
 - When you take a hit, roll on the Injury table below.
 - You suffer the rolled injury, which takes out one of your inventory slots.
 - Write your injuries starting from the end of your inventory.
-- If the slot contained an item, you drop it at the moment you suffer the injury.
+- If the slot receiving an injury contained an item, you drop it at the moment you suffer the injury.
 - If you suffer a **Major Injury**, you are out of the action
 
 To roll on the **Injuries** table, roll `1d12 + the number of injuries you currently suffer from - your Constitution bonus`, then diegetically adjudicate the result to the current situation. Some effect may ask you to roll a **Minor Injury**, in this case, replace the d12 with a d6.
@@ -241,18 +241,18 @@ To roll on the **Injuries** table, roll `1d12 + the number of injuries you curre
 Injuries from 1 to 6 are considered **Minor Injuries**, they do not have lasting effects. Injuries, from 7 and higher, are **Major injuries**; PCs suffer both the immediate effect, and the lasting effect until the character get rest in a safe town.
 
 *Table X: Injuries & Dismemberment*
-| Die Roll |       Injury       | Immediate Effect                                                                                     | Until recovery                                                                                      |
-| :------: | :----------------: | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------- |
-|   1-2    |  Merely a scratch  | Definitely a scar however. Roll a d4, on a 1, it's located where you can hide it with your clothes   | Nothing, luckily                                                                                    |
-|   3-4    |     Concussion     | You cannot use Action die for the rest of the day                                                    | Nothing, yet                                                                                        |
-|   5-6    | Just a Flesh Wound | Can't use the injured part for the rest of the day                                                   | Nothing, but you came close                                                                         |
-|    7     |   Lost extremity   | Roll d6 to find out what you lost: <br/>1. Fingers (d3); 2. Hand; 3. Nose; 4. Ear; 5. Eye; 6. Looks. | Disadvantage on tasks requiring that former extremity.                                              |
-|    8     |    Leg Useless     | Pass out from the pain. You need an additional hour to regain consciousness                          | Can’t run. Disadvantage on agility tasks                                                            |
-|    9     |    Arm Useless     | Pass out from the pain. You need an additional hour to regain consciousness                          | Disadvantage when needing both arms or if it was the dominant hand                                  |
-|    10    |     Head wound     | Lose half your action dice.                                                                          | Disadvantage on all rolls                                                                           |
-|    11    |     Lost Limb      | You can't stand on your own, needing help and support to move                                        | Same as useless leg or arm, but it won't regrow. Disadvantage becomes a permanent -2 after recovery |
-|    12    |     Hemorrhage     | You are bleeding out, and need tending to in d4 turns or you will die exsanguine.                    | Your action dice count as 3 (for the total roll, not the keeping-it part) when rolled as 3+.        |
-|   13+    |       Death        | Your luck has run out, and Death has come to take its toll                                           | You aren't expected to recover from this one...                                                     |
+| Die Roll |       Injury       | Immediate Effect                                                                                     | Until recovery                                                                                                                     |
+| :------: | :----------------: | :--------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+|   1-2    |  Merely a scratch  | Definitely a scar however. Roll a d4, on a 1, it's located where you can hide it with your clothes   | Nothing, luckily                                                                                                                   |
+|   3-4    |     Concussion     | You cannot use Action die for the rest of the day                                                    | Nothing, yet                                                                                                                       |
+|   5-6    | Just a Flesh Wound | Can't use the injured part for the rest of the day                                                   | Nothing, but you came close                                                                                                        |
+|    7     |   Lost extremity   | Roll d6 to find out what you lost: <br/>1. Fingers (d3); 2. Hand; 3. Nose; 4. Ear; 5. Eye; 6. Looks. | Disadvantage on tasks requiring that former extremity.                                                                             |
+|    8     |    Leg Useless     | Pass out from the pain. You need an additional hour to regain consciousness                          | Can’t run. Disadvantage on agility tasks                                                                                           |
+|    9     |    Arm Useless     | Pass out from the pain. You need an additional hour to regain consciousness                          | Disadvantage when needing both arms or if it was your dominant hand                                                                 |
+|    10    |     Head wound     | Lose Action Dice equal to half your maximum                                                              | Disadvantage on all rolls                                                                                                          |
+|    11    |     Lost Limb      | You can't stand on your own, needing help and support to move                                        | Same as useless leg or arm, but it won't regrow. Disadvantage becomes a permanent -2 after recovery                                |
+|    12    |     Hemorrhage     | You are bleeding out, and need tending to in d4 turns or you will die exsanguine                     | Rolling a 4, 5 or 6 on a action die adds nothing to the roll instead (you still check if you retain the die using the rolled face) |
+|   13+    |       Death        | Your luck has run out, and Death has come to take its toll                                           | You aren't expected to recover from this one...                                                                                    |
 
 ### Recovering from injuries
 
@@ -271,8 +271,10 @@ Note however, than any injury you suffer leaves a mark on your character. When y
 Magical healing is a godsend when dealing with adventuring injuries, still it is not omnipotent. When receiving magical healing, you can choose one:
 
 - Either remove a **minor injury** completely (you can choose to get a scar or not),
-- Or ignore the lasting effect of a **major injury**, but it still takes an inventory slot.
+- Or ignore the lasting effect of a **major injury**, but it still takes an inventory slot until natural recovery.
 
 ### A new Path
 
-Now, loosing a character does not means the end of it all: If you are adventuring which henchfolkss (either one of your character's, or one of a fellow character's), you are allowed to "promote" one of them, and adopt them as your new PC. If you prefer to create another PC, say so to the Referee, roll another one using the rules in [Character Discovery](CharacterCreation.md). After choosing which character to play, you may use any [backup Experience](#backup-experience) to level them up, up to half your previous PC level, on the spot if you wish to (you may also restart from level 1 if you prefer).
+Now, loosing a character does not means the end of it all: If you are adventuring which henchfolkss (either one of your character's, or one of a fellow character's), you are allowed to "promote" one of them, and adopt them as your new PC. If you prefer to create another PC, say so to the Referee, then roll another one using the rules in [Character Discovery](CharacterCreation.md).
+
+After choosing which character to play, you may use any [backup Experience](#backup-experience) to level them up, up to half your previous PC level, on the spot if you wish to (you may also restart from level 1 if you prefer).

@@ -43,7 +43,7 @@ As an Elf, you gain an Elf die with every template, which may be used either as 
 - **Fey Sculpted**: You deepen your connection to the Fey Realms. You cannot die of age.
   - *Iron Bane*: You roll a _Minor Wound + [templates]_ whenever you touch iron.
   - *Elven Magic*: You are a [spellcaster](magic/magic-rules.md), using the [Elven school of Magic](magic/magic-rules.md#). You start with one spell, which you get by rolling a d6 on the Elven Spell table.
-- **Oath Bound**: You can no longer lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take a _Major Wound + [X]_.
+- **Oath Bound**: You can no longer lie, and you may bound someone to their word by [Holding X] Magic Die. Whenever that person breaks their word, they take a _Major Injury + [X]_.
 - **Fey Sight**: You can see invisible things. Such as spells and emotions. You also see people who frequently lie. They look less... real, then everything else. Cannot be turned off yet it can be ignored.
 - **Elven Antlers**: You grow antlers on your forehead; describe their appearance (as a deer, either stag or doe, a moose, or any kind of cervidae). Your elven nature is now plain to see: Gain a +1 bonus to reactions when interacting with fey creatures, druids and woodland beings, but you give a -1 malus to reaction to your group when in presence of city and mountains dwellers (Humans, Dwarves, etc.).
 - **Fey Magic**: Choose 2 additional spells from the known elven spells, or create a spell from scratch.
