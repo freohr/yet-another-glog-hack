@@ -10,6 +10,7 @@
     - [A. Choose a Name](#a-choose-a-name)
     - [B. Describe your character](#b-describe-your-character)
     - [C. Find a reason for your character to be adventuring in this campaign rather than staying at home](#c-find-a-reason-for-your-character-to-be-adventuring-in-this-campaign-rather-than-staying-at-home)
+  - [6. Go on an adventure](#6-go-on-an-adventure)
 
 ## 0. Read the Agendas
 
@@ -17,11 +18,11 @@ The Agendas are guidelines about the kind of game experience this rule-set aim t
 
 ## 1. Roll your stats
 
-Your stats are **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom**, and **Charisma**. For each, in order, roll 3d6, then note the smallest value rolled next to the stat: This is your **Attribute Bonus** (used when acting upon something). Then, add 10 to the bonus, and write that next to it: This is your **Attribute Defense** (used when resisting something).
+Your stats are **Strength**, **Dexterity**, **Constitution**, **Intelligence**, **Wisdom**, and **Charisma**. For each, in order, roll 3d6, then note the lowest value rolled next to the stat: This is your **Attribute Bonus** (used when acting upon something).
 
-You may, once, switch two of your stats if you wish for your character to have a specific area of proficiency: [See Attributes description in the main Rules](./PlayerRules.md#using-attributes).
+You may, once, switch two of your stats if you wish for your character to have a specific area of proficiency: [See Attributes description in the main Rules](./player-rules.md#using-attributes).
 
-After that, note down your [derived stats](./PlayerRules.md#Additional-Characteristics): Resilience, Lifetime number of Henchfolks, Max Inventory Size.
+After that, note down your [derived stats](./player-rules.md#Additional-Characteristics): Lifetime number of Henchfolks (5 + starting **CHA**, does not change further) and Max Inventory Size (10 + median(**STR**, **DEX**, **INT**)).
 
 ## 2. Choose (or roll) your first Class Template
 
@@ -42,7 +43,7 @@ Your starting gold is (1d6 + 4) * 10 gp (between 50 and 100 gp). You also start 
 
 Using the [Basic Fantasy Equipment Emporium](https://basicfantasy.org/downloads/EE1-Equipment-Emporium-r24.pdf) as a reference, you can buy whatever complementary equipment you want, but be mindful of your inventory size. For ease of decision, you can look at page 20 (20 in the book/24 in the pdf) of the EE for starting packages.
 
-Note that before actually going on an adventure, you may hire Hirelings with the remaining money.
+Before actually going on an adventure, you may also hire Hirelings with the remaining money.
 
 ## 5. Decide who you are and why you are here
 
@@ -57,3 +58,7 @@ No need to go into full details about the physique of your character, a general 
 ### C. Find a reason for your character to be adventuring in this campaign rather than staying at home
 
 Ask your referee about the scope of the campaign, then decide why your character wishes to participate. They may have personal goals, be travelling with another character, be forced to be here, etc. What matters is why they would start adventuring, and why they would continue adventuring when danger bares its fangs.
+
+## 6. Go on an adventure
+
+Now that all the players have created their PCs, it's time to go adventuring. Or maybe the first adventure will come to you instead?
