@@ -22,7 +22,7 @@ Your stats are **Strength**, **Dexterity**, **Constitution**, **Intelligence**, 
 
 You may, once, switch two of your stats if you wish for your character to have a specific area of proficiency: [See Attributes description in the main Rules](./player-rules.md#using-attributes).
 
-After that, note down your [derived stats](./player-rules.md#Additional-Characteristics): Lifetime number of Henchfolks (5 + starting **CHA**, does not change further) and Max Inventory Size (10 + median(**STR**, **DEX**, **INT**)).
+After that, note down your [derived stats](./player-rules.md#Additional-Characteristics): Lifetime number of Henchfolks (5 + starting **CHA**, does not change further), Grit maximum (**CON**) and Max Inventory Size (10 + median(**STR**, **DEX**, **INT**)).
 
 ## 2. Choose (or roll) your first Class Template
 
@@ -34,16 +34,17 @@ Write down the abilities given by your template, the kind of Action Die that it 
 
 ## 3. Roll for your background
 
-Now, roll a d6 on the Background table for your chosen Template, and note down the result on your character sheet. Don't hesitate to reference it when making decision for your character.
-Note the equipment given by your background in your inventory.
+Now, roll a d6 on the Background table for your chosen Template, and note down the result on your character sheet. Don't hesitate to reference it when making decision for your character. Note the equipment given by your background in your inventory.
 
 ## 4. Choose your equipment
 
 Your starting gold is (1d6 + 4) * 10 gp (between 50 and 100 gp). You also start with a backpack or a strapped satchel (your choice) to hold your gear, if your background or your template doesn't give you one.
 
+For weapons and armor, you may choose a set of armor and a weapon from the [Weapons rules](equipment-wealth.md).
+
 Using the [Basic Fantasy Equipment Emporium](https://basicfantasy.org/downloads/EE1-Equipment-Emporium-r24.pdf) as a reference, you can buy whatever complementary equipment you want, but be mindful of your inventory size. For ease of decision, you can look at page 20 (20 in the book/24 in the pdf) of the EE for starting packages.
 
-Before actually going on an adventure, you may also hire Hirelings with the remaining money.
+Before actually going on an adventure, you may also hire Hirelings with your remaining money.
 
 ## 5. Decide who you are and why you are here
 

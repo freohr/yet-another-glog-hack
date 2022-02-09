@@ -22,21 +22,23 @@
 
 *"YOU CAN NOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT."*
 
-Doing anything takes time, which makes time the most precious resource of all. Game Play in this OSR Game is based around time and resources management, and this is represented by turn-based procedures for combat, dungeon and wilderness exploration, and eventually domain management. Resource management is represented as a number of turns between which players must spend those resources (food, water, light, etc.) or face varying penalties to their group during exploration.
+Doing anything takes time, which makes time the most precious resource of all. Game Play in this game is based around time and resources management, and this is represented by turn-based procedures for combat, dungeon and wilderness exploration, and eventually, at higher level, domain management. Resource management is represented as a number of turns between which players must spend those resources (food, water, light, etc.) or face varying penalties to their group during exploration.
 
 | Turn                              | Base Turn Duration |
 | :-------------------------------- | :----------------: |
-| Combat Round                      |     10 seconds     |
+| Combat Round                      |     30 seconds     |
 | Dungeon Turn                      |       10 min       |
 | Wilderness Watch (1 Travel Point) |      4 hours       |
 | Downtime                          |       1 day        |
-| Haven/Domain Turn / Faction Turn  |      1 month       |
+| Haven/Domain and Faction  |      1 month       |
 
 ## Overloaded Encounter Die
 
 _Original Idea from Necropraxis : [Overloading the encounter die](http://www.necropraxis.com/2014/02/03/overloading-the-encounter-die/), and various refinements from around the OSR online communities_
 
-To simplify time accounting, this game replace and merges the random encounter roll and fixed duration for each resource with an overloaded encounter die, rolled at the start of each turn, which will determine what initial situation the players need to handle before continuing their voyage. Here is the basic of this overloaded die:
+To simplify time accounting, this game replace and merges the random encounter roll and fixed duration for each resource with an overloaded encounter die, rolled at the start of each turn, which will determine what initial situation the players need to handle before continuing their voyage.
+
+The Overloaded encounter die is a `d6`, with an abstract situation mapped to each of its face. Each procedure has a tailored overloaded die. Here is the basic template for this overloaded die:
 
 *Table X: Overloaded Encounter Die template*
 
@@ -64,12 +66,12 @@ Combat is acted out in rounds, with each round being resolved with the following
 
 ### Overloaded Initiative Die
 
-In lieu of rolling for initiative, the Overloaded Initiative Die will influence the site of battle itself and the ebb and flow of combat.
+In lieu of participants rolling for initiative, the Overloaded Initiative Die will influence the site of battle itself and the ebb and flow of combat.
 
 | Roll  | What Happens?                  | Details                                                                 | Who has initiative?       |
 | :---: | :----------------------------- | :---------------------------------------------------------------------- | :------------------------ |
 |   1   | Noise has attracted something! | Roll for a random encounter, PCs can influence the Reaction roll.       | Opponents have Initiative |
-|   2   | Fatigue!                       | Anyone currently in melee takes 1 damage.                               | Opponents have Initiative |
+|   2   | Fatigue!                       | TODO: Minor wounds? Bonus to everyone in melee?                               | Opponents have Initiative |
 |   3   | The Dungeon reacts!            | An environmental effect disturbs the battle.                            | Opponents have Initiative |
 |   4   | The Dungeon reacts!            | An environmental effect disturbs the battle.                            | PCs have Initiative       |
 |   5   | A bit of respite...            | Nothing in particular happens                                           | PCs have Initiative       |
@@ -170,7 +172,7 @@ _**ToDo**: Define Travel points and Movement Multipliers for Water/Sea and Air t
 
 _**ToDo**: Adapt "Getting Lost" rules from AD&D DMG_
 
-Players should have access to a map of the region, but they should handle on their own
+Players should have access to a map of the region, but they should keep track of where they are going on their own, based on the Referee descriptions.
 
 ### Encounters
 

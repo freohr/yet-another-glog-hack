@@ -19,12 +19,12 @@ Each class template grants specialized abilities, as well as one [Action Die](#A
 
 ## Ancestry Templates
 
-* [Dwarf](class-templates/dwarf.md)
-* [Elf](class-templates/elf.md)
-* [Halfling](class-templates/halfling.md)
+- [Dwarf](class-templates/dwarf.md)
+- [Elf](class-templates/elf.md)
+- [Halfling](class-templates/halfling.md)
 
 ## Occupation Templates
 
-* [Fighter](class-templates/fighter.md)
-* [Magic-User](class-templates/magic-user.md)
-* [Specialist](class-templates/specialist.md)
+- [Fighter](class-templates/fighter.md)
+- [Magic-User](class-templates/magic-user.md)
+- [Specialist](class-templates/specialist.md)

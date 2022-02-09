@@ -52,7 +52,27 @@ The rules serve as as a mechanical framing of the power of the characters (by ex
 
 #### Rules as Player Tools
 
-Rules about character usage are directly aimed at players, for them to build their own mechanical toolkit. This encompasses character creation choices, class features, rules about magic, hired help, etc.
+PCs, as defined be the rules, are a bundle of tools for the player to use to interact with the world. Those tools are separated in 2 categories :
+
+1. Intrinsic: Tools (or actually, Features) that cannot be separated from the PC.
+   * Those are either innate (given to you at the beginning): e.g. Attributes rolled at character creation, and stats derived from that; or acquired (chosen by you, mostly during level up): Which class template you take and its associated features, How you increase your attributes, Hit Dice, etc.
+   * Note that even a character death cannot "separate" those features from a PC: The lost PC's features are no longer accessible, and you use another PC with their own set of intrinsic features.
+2. Extrinsic: Tools that can be given to and taken from the PC.
+   * This encompasses both actual tools (any gear you are carrying) and metaphorical tools (Hirelings and Henchfolks, Relations with Factions, etc.).
+   * Any kind of settlement/keep/castle/mage tower that the PCs might build or manage are also considered tools.
+
+Those tools are never (or rather, not intended to be) a one-button answer to any situation that the PCs encounter: They merely provide options, not solutions. The answer is not on your character sheet.
+
+> This means that you won't find a "Survival", a "Diplomacy" or a "Lockpicking" skill (or any explicit skill actually) in those rules that enables "I am good at doing the specific thing, therefore I do the specific thing".
+> For example, the base "Skill" class is the Specialist, and their main way of being better as skill is being able to use Action Dice for skill checks, and being able to carry more tools (which then give bonus for skill checks).
+> It also means that:
+>
+> * a) To do something, you have to think about what you want to do, describe it to the table, explain how you do it, and say what you want to gain from it; all of this in the context of the in-game world,
+> * b) Anything on your character sheet is polyvalent (e.g. Magic Dice are primarily used to cast magic, but you could expend one to help you with a skill check to identify magic you encounter)
+
+Action Dice are one way of making it possible to specialize a character, without trivializing what the player intends for the character to do: A PC with Fighting Dice is better at fighting that one without, but Dice alone does not guarantee victory. Template features are another, but they work in a different way: with the exception of templates granting Magic, templates only enhance mechanics already present in the game, e.g. even if a fighter (with the B template) is better at handling Hirelings, it doesn't mean that you need to be a fighter to have access to hirelings; a PC with a good Charisma would be just as effective.
+
+> Side Note here regarding Magic: Magic is the only feature in this game that says "If you don't explicitly choose a class that can do that, you can't do that". Everything else is merely "You are better at doing that thing that people that don't specialize in doing that thing".
 
 #### Rules as Referee Tools
 
@@ -73,6 +93,15 @@ As finding treasure and carrying it back is central to this game, Inventory mana
 
 However, Inventory is limited: your PC's maximum inventory size is related to your Attributes, and only grows slowly over the course of your level ups. Some classes may increase the number of inventory slots for a specific kind of gear (e.g. the Specialist has more space, dedicated to tools and toolkits).
 
+##### How to interact with the world
+
+The rule of thumbs to know if a plan might work:
+
+* If it is trivial, it usually just works
+* If is is reasonable, the Referee may ask for a small cost (spent item, a small HP loss, etc.)
+* If it is risky, the Referee should ask for a roll and/or a high cost (spent items and HP loss?)
+* If it is farfetched, find another plan.
+
 ##### How to mechanically advance
 
 PCs can advance in two ways:
@@ -89,3 +118,55 @@ PCs can advance in two ways:
 Procedures are meant to both structure play at the table, and measure time spent diegetically. This ruleset explicitly describes 3 procedures framing players action: Combat, Dungeon Crawling and Wilderness Movement. Using procedures is automatic: If a player or the party wants to do an activity that fits one of the defined procedures, then the procedure is used. This
 
 ### Diegetic Expectations
+
+#### The Scale of Power
+
+PCs are competent humans, not superheroes. Moving a boulder may be done with either enough people, horsepower, or ingenious leverage using the surrounding environment, but moving a mountain is impossible within this ruleset. Magic may skew this a little (moving TWO boulders, imagine that?), but still isn't omnipotent.
+
+#### Time
+
+> YOU CAN NOT HAVE A MEANINGFUL CAMPAIGN IF STRICT TIME RECORDS ARE NOT KEPT.
+
+There, everything is said.
+
+...
+
+Fine, maybe some clarifying is needed.
+
+Every action of the PCs take time, and the PCs have a limited range of action they can take during a specific period. Combat rounds, Dungeon turns, Wilderness watches serve as both game turns, to structure how players can act, and as a measure of the passing of time: As a watch is 4h, you can only explore during 4 of the 6 watches of a day (you still need to rest and sleep the remaining 2); As a turn is 10min, you can only take 24 turns in a watch. Furthermore, the act of levelling up also takes time (2 week of forced downtime), recovering from injuries takes time (from a few days to several weeks), etc.
+
+During this passing time, in which PCs act, the rest of the world still moves forwards: NPCs with plans advances them, Cleared dungeons get restocked, Factions interact with each other at a bigger scale.
+
+All this means that ensuring that actions take time, and measuring this time purposefully, ground the game in verisimilitude that enhances the choices that players make, instead of the dissonant "hero to god in two months" form that modern fantasy games usually take.
+
+
+
+## TO SORT
+
+### How the Game restricts you, the PC
+
+#### Mechanically
+
+##### Play Structures
+
+Play structures are both a tool and a restriction. They serve to frame and organize both play at the table, and PCs actions in the world.
+
+##### The Inventory
+
+The most important part of your character sheet is the **Inventory**:
+
+* You want to bring something to the adventure, put it in your inventory;
+* You want to take something back from the adventure, put it in your inventory;
+* You get hurt while adventuring, put the injury in your inventory (not diegetically of course, but injuries are tracked in your inventory, and take the place of anything else you might be carrying).
+
+However, your inventory size is limited by your Attributes, and if you carry more than your Attributes allows you, you will be severely penalized.
+
+##### The Dice
+
+
+
+#### Diegetically
+
+This is more of a soft restriction, rather than a hard rule.
+
+

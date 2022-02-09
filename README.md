@@ -8,7 +8,7 @@ The Hexagonal Goblin Laws of gaming (because hexagons are bestagons).
 
 This game is an OSR game, which means it comes with a set of assumption about gameplay. More details in the [Agendas page](rules/agendas.md)
 
-- Emergent story, based on player interaction with the world.
+- Emergent stories, based on player activity and interaction with the world.
 - Dungeoneering, Adventuring and Exploring the wilderness in a Fantasy World.
 - Playing mortal adventurers relying on their wits to survive.
 - Braving danger for treasure with clever strategies.
@@ -22,12 +22,12 @@ This game is an OSR game, which means it comes with a set of assumption about ga
 
 ### What are the difference from other GLOG hacks
 
-- **Roll high**: For every kind of roll, high is better. From Knave, every skill check or save is roll >= 15; Moral and reaction is 2d10, with high means more favorable results; Overloaded Encounter Die have better result on high values; etc.
-- **Character stats are bonuses only**. Any roll is: grab the needed die, roll, add a attribute bonus, then compare the result to the threshold for the kind of action you rolled for. ([Ok, fine, it's not that different](http://goblinpunch.blogspot.com/2020/04/stat-squish-and-lawful-roll.html))
-- **Player-facing rolls**: Beside referee-only rolls (mostly procedural generation), all rolls are done by the player, including attacking and defending in combat.
-- **More templates for an adventurer**: Classes still only have 4 templates, but PCs can have up to 6 templates, which means multi-classing will happen if you survive long enough.
+- **Roll high:** For every kind of roll, high is better. From Knave, every skill check or save is roll >= 15; Moral and reaction is 2d10, with a higher roll meaning more favorable results; Overloaded Encounter Die have better result on high values; etc.
+- **Character stats are bonuses only:** Any roll is: grab the needed die, roll, add a attribute bonus, then compare the result to the threshold for the kind of action you rolled for. ([Ok, fine, it's not that different](http://goblinpunch.blogspot.com/2020/04/stat-squish-and-lawful-roll.html), [Really not that different](https://goblinpunch.blogspot.com/2020/04/lair-of-lamb-final.html)))
+- **Player-facing rolls:** Beside procedural generation (which is done by the referee, and mostly out of session), all rolls representing interactions are done by the player, including attacking and defending in combat.
+- **More templates for an adventurer:** Classes still only have 4 templates, but PCs can have up to 6 templates, which means multi-classing will happen if you survive long enough.
 - **Ancestry-as-templates** (derived from Race-as-Class): To replicate the original old school D&D games, every PC is a human, unless they take Ancestry templates, representing their belonging to a different ancestry, culture, etc.
-- **No HP**. Instead, damage is represented by injuries taking up inventory space: The more damage you take between rests, the less stuff you can carry.
+- **(Kinda) No HP:** Instead, damage is represented by injuries taking up inventory space: The more damage you take between rests, the less stuff you can carry.
 
 ## Inspirations
 
